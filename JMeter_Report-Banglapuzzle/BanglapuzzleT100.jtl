@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1729981469656,6073,https://www.banglapuzzle.com/,200,OK,Thread Group 1-4,text,true,,298165,501,64,64,https://www.banglapuzzle.com/,5163,0,727
+1729981471163,4856,https://www.banglapuzzle.com/,200,OK,Thread Group 1-19,text,true,,298058,501,67,67,https://www.banglapuzzle.com/,3849,0,129
+1729981470055,9175,https://www.banglapuzzle.com/,200,OK,Thread Group 1-8,text,true,,297877,501,100,100,https://www.banglapuzzle.com/,5681,0,326
+1729981470257,13172,https://www.banglapuzzle.com/,200,OK,Thread Group 1-10,text,true,,297986,501,100,100,https://www.banglapuzzle.com/,5767,0,180
+1729981469539,13972,https://www.banglapuzzle.com/,200,OK,Thread Group 1-3,text,true,,297985,501,100,100,https://www.banglapuzzle.com/,6715,0,847
+1729981471975,11613,https://www.banglapuzzle.com/,200,OK,Thread Group 1-27,text,true,,298037,501,100,100,https://www.banglapuzzle.com/,4350,0,140
+1729981469536,14396,https://www.banglapuzzle.com/,200,OK,Thread Group 1-2,text,true,,297903,501,100,100,https://www.banglapuzzle.com/,7162,0,849
+1729981469536,14487,https://www.banglapuzzle.com/,200,OK,Thread Group 1-1,text,true,,297987,501,100,100,https://www.banglapuzzle.com/,7499,0,841
+1729981470391,13971,https://www.banglapuzzle.com/,200,OK,Thread Group 1-11,text,true,,297956,501,100,100,https://www.banglapuzzle.com/,6956,0,174
+1729981477754,13264,https://www.banglapuzzle.com/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-85,text,false,,3253,0,100,100,https://www.banglapuzzle.com/,0,0,13264
+1729981477855,13360,https://www.banglapuzzle.com/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-86,text,false,,3253,0,100,100,https://www.banglapuzzle.com/,0,0,13360
+1729981477953,13405,https://www.banglapuzzle.com/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-87,text,false,,3253,0,100,100,https://www.banglapuzzle.com/,0,0,13405
+1729981478151,13317,https://www.banglapuzzle.com/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-89,text,false,,3253,0,100,100,https://www.banglapuzzle.com/,0,0,13317
+1729981478249,13224,https://www.banglapuzzle.com/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-90,text,false,,3253,0,100,100,https://www.banglapuzzle.com/,0,0,13223
+1729981478350,13256,https://www.banglapuzzle.com/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-91,text,false,,3253,0,100,100,https://www.banglapuzzle.com/,0,0,13256
+1729981478450,13204,https://www.banglapuzzle.com/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-92,text,false,,3253,0,100,100,https://www.banglapuzzle.com/,0,0,13204
+1729981478549,13135,https://www.banglapuzzle.com/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-93,text,false,,3253,0,100,100,https://www.banglapuzzle.com/,0,0,13135
+1729981478745,13162,https://www.banglapuzzle.com/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-95,text,false,,3253,0,100,100,https://www.banglapuzzle.com/,0,0,13161
+1729981478052,13948,https://www.banglapuzzle.com/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-88,text,false,,3253,0,100,100,https://www.banglapuzzle.com/,0,0,13947
+1729981478649,13565,https://www.banglapuzzle.com/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-94,text,false,,3253,0,100,100,https://www.banglapuzzle.com/,0,0,13565
+1729981471264,27505,https://www.banglapuzzle.com/,200,OK,Thread Group 1-20,text,true,,297927,501,100,100,https://www.banglapuzzle.com/,8225,0,155
+1729981470161,28805,https://www.banglapuzzle.com/,200,OK,Thread Group 1-9,text,true,,297925,501,100,100,https://www.banglapuzzle.com/,9607,0,227
+1729981476362,25204,https://www.banglapuzzle.com/,200,OK,Thread Group 1-71,text,true,,298094,501,100,100,https://www.banglapuzzle.com/,16104,0,7194
+1729981476462,25296,https://www.banglapuzzle.com/,200,OK,Thread Group 1-72,text,true,,297987,501,100,100,https://www.banglapuzzle.com/,16166,0,7155
+1729981476063,25813,https://www.banglapuzzle.com/,200,OK,Thread Group 1-68,text,true,,298170,501,100,100,https://www.banglapuzzle.com/,16712,0,7328
+1729981476272,25766,https://www.banglapuzzle.com/,200,OK,Thread Group 1-70,text,true,,298054,501,100,100,https://www.banglapuzzle.com/,16729,0,7235
+1729981470668,32211,https://www.banglapuzzle.com/,200,OK,Thread Group 1-14,text,true,,297939,501,100,100,https://www.banglapuzzle.com/,10274,0,175
+1729981471566,31485,https://www.banglapuzzle.com/,200,OK,Thread Group 1-23,text,true,,297980,501,100,100,https://www.banglapuzzle.com/,9791,0,170
+1729981470894,32211,https://www.banglapuzzle.com/,200,OK,Thread Group 1-16,text,true,,297970,501,100,100,https://www.banglapuzzle.com/,10272,0,159
+1729981471461,32398,https://www.banglapuzzle.com/,200,OK,Thread Group 1-22,text,true,,297940,501,100,100,https://www.banglapuzzle.com/,10833,0,184
+1729981489326,14755,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-10,text,true,,142551,1208,100,100,https://www.banglapuzzle.com/products,6693,0,0
+1729981489409,14980,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-3,text,true,,142548,1208,100,100,https://www.banglapuzzle.com/products,6973,0,0
+1729981489489,15033,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-27,text,true,,142540,1208,100,100,https://www.banglapuzzle.com/products,7096,0,0
+1729981489829,14966,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-2,text,true,,142583,1208,100,100,https://www.banglapuzzle.com/products,6980,0,0
+1729981489922,15064,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-1,text,true,,142480,1208,100,100,https://www.banglapuzzle.com/products,7263,0,0
+1729981490261,15336,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-11,text,true,,142536,1208,100,100,https://www.banglapuzzle.com/products,7347,0,0
+1729981469848,36039,https://www.banglapuzzle.com/,200,OK,Thread Group 1-6,text,true,,297958,501,100,100,https://www.banglapuzzle.com/,12972,0,536
+1729981469955,36213,https://www.banglapuzzle.com/,200,OK,Thread Group 1-7,text,true,,297988,501,100,100,https://www.banglapuzzle.com/,7775,0,431
+1729981469754,36436,https://www.banglapuzzle.com/,200,OK,Thread Group 1-5,text,true,,297918,501,100,100,https://www.banglapuzzle.com/,7840,0,625
+1729981472375,34905,https://www.banglapuzzle.com/,200,OK,Thread Group 1-31,text,true,,297944,501,100,100,https://www.banglapuzzle.com/,12458,0,146
+1729981473077,34346,https://www.banglapuzzle.com/,200,OK,Thread Group 1-38,text,true,,298024,501,100,100,https://www.banglapuzzle.com/,12063,0,146
+1729981472776,34974,https://www.banglapuzzle.com/,200,OK,Thread Group 1-35,text,true,,298094,501,100,100,https://www.banglapuzzle.com/,12530,0,160
+1729981479026,28827,https://www.banglapuzzle.com/,200,OK,Thread Group 1-98,text,true,,298176,501,100,100,https://www.banglapuzzle.com/,20487,0,12989
+1729981472875,35242,https://www.banglapuzzle.com/,200,OK,Thread Group 1-36,text,true,,298043,501,100,100,https://www.banglapuzzle.com/,12911,0,150
+1729981479228,28971,https://www.banglapuzzle.com/,200,OK,Thread Group 1-100,text,true,,298280,501,100,100,https://www.banglapuzzle.com/,20965,0,13180
+1729981477555,32263,https://www.banglapuzzle.com/,200,OK,Thread Group 1-83,text,true,,298106,501,100,100,https://www.banglapuzzle.com/,18560,0,11724
+1729981477456,32363,https://www.banglapuzzle.com/,200,OK,Thread Group 1-82,text,true,,298236,501,100,100,https://www.banglapuzzle.com/,18051,0,11247
+1729981473275,36800,https://www.banglapuzzle.com/,200,OK,Thread Group 1-40,text,true,,298066,501,100,100,https://www.banglapuzzle.com/,16885,0,173
+1729981473686,36698,https://www.banglapuzzle.com/,200,OK,Thread Group 1-44,text,true,,298042,501,100,100,https://www.banglapuzzle.com/,16616,0,164
+1729981477652,32826,https://www.banglapuzzle.com/,200,OK,Thread Group 1-84,text,true,,298198,501,100,100,https://www.banglapuzzle.com/,19350,0,11874
+1729981475667,37270,https://www.banglapuzzle.com/,200,OK,Thread Group 1-64,text,true,,298033,501,100,100,https://www.banglapuzzle.com/,22919,0,3290
+1729981472673,40965,https://www.banglapuzzle.com/,200,OK,Thread Group 1-34,text,true,,298010,501,100,100,https://www.banglapuzzle.com/,13333,0,176
+1729981507469,7898,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-71,text,true,,142569,1208,100,100,https://www.banglapuzzle.com/products,5688,0,0
+1729981507656,8171,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-72,text,true,,142530,1208,100,100,https://www.banglapuzzle.com/products,5916,0,0
+1729981471065,44799,https://www.banglapuzzle.com/,200,OK,Thread Group 1-18,text,true,,298041,501,100,100,https://www.banglapuzzle.com/,7481,0,141
+1729981476661,39231,https://www.banglapuzzle.com/,200,OK,Thread Group 1-74,text,true,,298087,501,100,100,https://www.banglapuzzle.com/,17464,0,7216
+1729981507774,8172,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-68,text,true,,142596,1208,100,100,https://www.banglapuzzle.com/products,6091,0,0
+1729981496915,19706,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-85,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,19705
+1729981507935,8686,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-70,text,true,,142549,1208,100,100,https://www.banglapuzzle.com/products,6565,0,0
+1729981497113,19680,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-86,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,19680
+1729981497256,19699,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-87,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,19699
+1729981497369,19598,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-90,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,19598
+1729981497504,19475,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-91,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,19475
+1729981497582,19402,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-93,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,19402
+1729981497366,19620,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-89,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,19620
+1729981497804,19196,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-95,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,19196
+1729981497900,19104,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-88,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,19104
+1729981497552,19452,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-92,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,19452
+1729981504667,12380,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-20,text,true,,142550,1208,100,100,https://www.banglapuzzle.com/products,5443,0,0
+1729981498113,18946,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-94,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,18946
+1729981504864,12768,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-9,text,true,,142555,1208,100,100,https://www.banglapuzzle.com/products,5667,0,0
+1729981474680,44142,https://www.banglapuzzle.com/,200,OK,Thread Group 1-54,text,true,,297815,501,100,100,https://www.banglapuzzle.com/,16541,0,145
+1729981473475,45571,https://www.banglapuzzle.com/,200,OK,Thread Group 1-42,text,true,,298046,501,100,100,https://www.banglapuzzle.com/,17641,0,157
+1729981481917,37984,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-19,text,true,,142525,1208,100,100,https://www.banglapuzzle.com/products,30472,0,0
+1729981472275,48249,https://www.banglapuzzle.com/,200,OK,Thread Group 1-30,text,true,,298122,501,100,100,https://www.banglapuzzle.com/,12572,0,149
+1729981475866,44942,https://www.banglapuzzle.com/,200,OK,Thread Group 1-66,text,true,,298052,501,100,100,https://www.banglapuzzle.com/,15616,0,3610
+1729981476866,45702,https://www.banglapuzzle.com/,200,OK,Thread Group 1-76,text,true,,298050,501,100,100,https://www.banglapuzzle.com/,16974,0,7085
+1729981471866,51827,https://www.banglapuzzle.com/,200,OK,Thread Group 1-26,text,true,,298069,501,100,100,https://www.banglapuzzle.com/,9958,0,147
+1729981478858,45197,https://www.banglapuzzle.com/,200,OK,Thread Group 1-96,text,true,,298146,501,100,100,https://www.banglapuzzle.com/,24263,0,15830
+1729981477356,46761,https://www.banglapuzzle.com/,200,OK,Thread Group 1-81,text,true,,297948,501,100,100,https://www.banglapuzzle.com/,16907,0,6788
+1729981508950,15201,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-23,text,true,,142617,1208,100,100,https://www.banglapuzzle.com/products,7202,0,0
+1729981509635,15710,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-10,text,true,,194678,1208,100,100,https://www.banglapuzzle.com/services,7578,0,0
+1729981474204,51316,https://www.banglapuzzle.com/,200,OK,Thread Group 1-49,text,true,,297923,501,100,100,https://www.banglapuzzle.com/,16426,0,157
+1729981509944,15755,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-3,text,true,,194694,1208,100,100,https://www.banglapuzzle.com/services,7718,0,0
+1729981510350,15781,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-2,text,true,,194682,1208,100,100,https://www.banglapuzzle.com/services,7820,0,0
+1729981510543,15708,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-1,text,true,,194710,1208,100,100,https://www.banglapuzzle.com/services,7864,0,0
+1729981473573,52771,https://www.banglapuzzle.com/,200,OK,Thread Group 1-43,text,true,,297927,501,100,100,https://www.banglapuzzle.com/,17330,0,151
+1729981475469,51097,https://www.banglapuzzle.com/,200,OK,Thread Group 1-62,text,true,,298096,501,100,100,https://www.banglapuzzle.com/,22801,0,2119
+1729981511153,15588,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-11,text,true,,194664,1208,100,100,https://www.banglapuzzle.com/services,8143,0,0
+1729981481649,45166,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-4,text,true,,142555,1208,100,100,https://www.banglapuzzle.com/products,9870,0,0
+1729981475578,51499,https://www.banglapuzzle.com/,200,OK,Thread Group 1-63,text,true,,297956,501,100,100,https://www.banglapuzzle.com/,16098,0,2666
+1729981518837,8512,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-64,text,true,,142534,1208,100,100,https://www.banglapuzzle.com/products,7837,0,0
+1729981475169,52346,https://www.banglapuzzle.com/,200,OK,Thread Group 1-59,text,true,,297999,501,100,100,https://www.banglapuzzle.com/,23393,0,1533
+1729981475774,51742,https://www.banglapuzzle.com/,200,OK,Thread Group 1-65,text,true,,298194,501,100,100,https://www.banglapuzzle.com/,22571,0,3470
+1729981474995,52744,https://www.banglapuzzle.com/,200,OK,Thread Group 1-57,text,true,,297999,501,100,100,https://www.banglapuzzle.com/,16374,0,975
+1729981511785,15967,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-6,text,true,,142571,1208,100,100,https://www.banglapuzzle.com/products,8156,0,0
+1729981474283,54104,https://www.banglapuzzle.com/,200,OK,Thread Group 1-50,text,true,,297940,501,100,100,https://www.banglapuzzle.com/,16752,0,151
+1729981475269,53141,https://www.banglapuzzle.com/,200,OK,Thread Group 1-60,text,true,,298030,501,100,100,https://www.banglapuzzle.com/,16027,0,1662
+1729981476960,52346,https://www.banglapuzzle.com/,200,OK,Thread Group 1-77,text,true,,297995,501,100,100,https://www.banglapuzzle.com/,16570,0,6999
+1729981477158,53491,https://www.banglapuzzle.com/,200,OK,Thread Group 1-79,text,true,,298129,501,100,100,https://www.banglapuzzle.com/,16832,0,6881
+1729981513753,17457,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-98,text,true,,142551,1208,100,100,https://www.banglapuzzle.com/products,8568,0,0
+1729981514096,17260,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-100,text,true,,142573,1208,100,100,https://www.banglapuzzle.com/products,8845,0,0
+1729981477058,54304,https://www.banglapuzzle.com/,200,OK,Thread Group 1-78,text,true,,298028,501,100,100,https://www.banglapuzzle.com/,31309,0,6912
+1729981477263,54455,https://www.banglapuzzle.com/,200,OK,Thread Group 1-80,text,true,,298138,501,100,100,https://www.banglapuzzle.com/,16415,0,6796
+1729981515721,16812,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-83,text,true,,142587,1208,100,100,https://www.banglapuzzle.com/products,8465,0,0
+1729981516376,16166,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-84,text,true,,142511,1208,100,100,https://www.banglapuzzle.com/products,16079,0,0
+1729981515718,16839,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-82,text,true,,142516,1208,100,100,https://www.banglapuzzle.com/products,8527,0,0
+1729981471765,61757,https://www.banglapuzzle.com/,200,OK,Thread Group 1-25,text,true,,297980,501,100,100,https://www.banglapuzzle.com/,10184,0,139
+1729981475964,57702,https://www.banglapuzzle.com/,200,OK,Thread Group 1-67,text,true,,298022,501,100,100,https://www.banglapuzzle.com/,16215,0,6564
+1729981526705,7549,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-66,text,true,,142518,1208,100,100,https://www.banglapuzzle.com/products,7303,0,0
+1729981519536,14737,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-34,text,true,,142507,1208,100,100,https://www.banglapuzzle.com/products,8247,0,0
+1729981473984,60336,https://www.banglapuzzle.com/,200,OK,Thread Group 1-47,text,true,,297865,501,100,100,https://www.banglapuzzle.com/,24089,0,146
+1729981476164,58637,https://www.banglapuzzle.com/,200,OK,Thread Group 1-69,text,true,,297987,501,100,100,https://www.banglapuzzle.com/,17220,0,7279
+1729981513178,21964,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-31,text,true,,142602,1208,100,100,https://www.banglapuzzle.com/products,8485,0,0
+1729981528467,7031,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-76,text,true,,142513,1208,100,100,https://www.banglapuzzle.com/products,6414,0,0
+1729981470570,65331,https://www.banglapuzzle.com/,200,OK,Thread Group 1-13,text,true,,298055,501,100,100,https://www.banglapuzzle.com/,9386,0,156
+1729981476762,59212,https://www.banglapuzzle.com/,200,OK,Thread Group 1-75,text,true,,298037,501,100,100,https://www.banglapuzzle.com/,25871,0,7182
+1729981521383,14838,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-72,text,true,,194635,1208,100,100,https://www.banglapuzzle.com/services,8383,0,0
+1729981470966,65311,https://www.banglapuzzle.com/,200,OK,Thread Group 1-17,text,true,,297974,501,100,100,https://www.banglapuzzle.com/,9269,0,139
+1729981522178,14264,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-70,text,true,,194730,1208,100,100,https://www.banglapuzzle.com/services,13849,0,0
+1729981530017,6607,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-81,text,true,,142542,1208,100,100,https://www.banglapuzzle.com/products,5943,0,0
+1729981523187,13575,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-9,text,true,,194716,1208,100,100,https://www.banglapuzzle.com/services,8376,0,0
+1729981473903,62908,https://www.banglapuzzle.com/,200,OK,Thread Group 1-46,text,true,,298068,501,100,100,https://www.banglapuzzle.com/,14929,0,136
+1729981508777,28038,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-14,text,true,,142548,1208,100,100,https://www.banglapuzzle.com/products,7250,0,0
+1729981509003,27858,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-16,text,true,,142576,1208,100,100,https://www.banglapuzzle.com/products,7412,0,0
+1729981529952,7019,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-96,text,true,,142521,1208,100,100,https://www.banglapuzzle.com/products,6035,0,0
+1729981474083,63027,https://www.banglapuzzle.com/,200,OK,Thread Group 1-48,text,true,,298009,501,100,100,https://www.banglapuzzle.com/,15201,0,148
+1729981471664,65546,https://www.banglapuzzle.com/,200,OK,Thread Group 1-24,text,true,,297961,501,100,100,https://www.banglapuzzle.com/,9216,0,150
+1729981524719,12532,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-54,text,true,,142625,1208,100,100,https://www.banglapuzzle.com/products,7910,0,0
+1729981524944,12538,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-42,text,true,,142529,1208,100,100,https://www.banglapuzzle.com/products,7956,0,0
+1729981510078,27750,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-27,text,true,,194604,1208,100,100,https://www.banglapuzzle.com/services,7748,0,0
+1729981532463,5555,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-62,text,true,,142504,1208,100,100,https://www.banglapuzzle.com/products,5237,0,0
+1729981479127,59144,https://www.banglapuzzle.com/,200,OK,Thread Group 1-99,text,true,,298188,501,100,100,https://www.banglapuzzle.com/,24246,0,15532
+1729981525455,12864,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-19,text,true,,194714,1208,100,100,https://www.banglapuzzle.com/services,7900,0,0
+1729981532975,5635,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-63,text,true,,142543,1208,100,100,https://www.banglapuzzle.com/products,5126,0,0
+1729981526421,12369,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-30,text,true,,142572,1208,100,100,https://www.banglapuzzle.com/products,7336,0,0
+1729981532904,5926,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-64,text,true,,194689,1208,100,100,https://www.banglapuzzle.com/services,5318,0,0
+1729981478929,60144,https://www.banglapuzzle.com/,200,OK,Thread Group 1-97,text,true,,298076,501,100,100,https://www.banglapuzzle.com/,24364,0,15785
+1729981521789,17363,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-74,text,true,,142667,1208,100,100,https://www.banglapuzzle.com/products,17105,0,0
+1729981533413,5846,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-59,text,true,,142568,1208,100,100,https://www.banglapuzzle.com/products,5454,0,0
+1729981533413,6106,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-65,text,true,,142553,1208,100,100,https://www.banglapuzzle.com/products,5599,0,0
+1729981533637,6022,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-57,text,true,,142490,1208,100,100,https://www.banglapuzzle.com/products,5657,0,0
+1729981475074,64706,https://www.banglapuzzle.com/,200,OK,Thread Group 1-58,text,true,,298145,501,100,100,https://www.banglapuzzle.com/,23227,0,916
+1729981522508,17292,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-87,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17291
+1729981522177,17658,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-85,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17658
+1729981485129,54720,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-8,text,true,,142490,1208,100,100,https://www.banglapuzzle.com/products,23278,0,0
+1729981522346,17576,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-86,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17576
+1729981522519,17485,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-90,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17485
+1729981522539,17466,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-93,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17466
+1729981522539,17467,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-89,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17466
+1729981522553,17457,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-95,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17457
+1729981522533,17477,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-91,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17477
+1729981522558,17452,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-88,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17452
+1729981522559,17455,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-92,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17454
+1729981522612,17405,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-94,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17405
+1729981534308,5833,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-60,text,true,,142550,1208,100,100,https://www.banglapuzzle.com/products,5599,0,0
+1729981513322,26851,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-38,text,true,,142556,1208,100,100,https://www.banglapuzzle.com/products,8648,0,0
+1729981529705,10635,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-23,text,true,,194645,1208,100,100,https://www.banglapuzzle.com/services,5663,0,0
+1729981529591,10786,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-26,text,true,,142542,1208,100,100,https://www.banglapuzzle.com/products,5943,0,0
+1729981521500,18884,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-68,text,true,,194713,1208,100,100,https://www.banglapuzzle.com/services,8449,0,0
+1729981520922,19485,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-71,text,true,,194645,1208,100,100,https://www.banglapuzzle.com/services,8387,0,0
+1729981514016,26563,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-36,text,true,,142563,1208,100,100,https://www.banglapuzzle.com/products,8508,0,0
+1729981470462,70594,https://www.banglapuzzle.com/,200,OK,Thread Group 1-12,text,true,,298019,501,100,100,https://www.banglapuzzle.com/,17457,0,181
+1729981531417,9922,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-49,text,true,,142595,1208,100,100,https://www.banglapuzzle.com/products,5480,0,0
+1729981515972,25462,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-40,text,true,,142591,1208,100,100,https://www.banglapuzzle.com/products,8577,0,0
+1729981474877,66617,https://www.banglapuzzle.com/,200,OK,Thread Group 1-56,text,true,,297923,501,100,100,https://www.banglapuzzle.com/,14651,0,573
+1729981474581,66988,https://www.banglapuzzle.com/,200,OK,Thread Group 1-53,text,true,,297951,501,100,100,https://www.banglapuzzle.com/,15146,0,156
+1729981472977,68598,https://www.banglapuzzle.com/,200,OK,Thread Group 1-37,text,true,,298036,501,100,100,https://www.banglapuzzle.com/,16991,0,155
+1729981516284,25390,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-44,text,true,,142545,1208,100,100,https://www.banglapuzzle.com/products,16150,0,0
+1729981532242,9520,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-43,text,true,,142555,1208,100,100,https://www.banglapuzzle.com/products,5115,0,0
+1729981536546,5964,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-79,text,true,,142554,1208,100,100,https://www.banglapuzzle.com/products,5220,0,0
+1729981536766,5922,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-98,text,true,,194687,1208,100,100,https://www.banglapuzzle.com/services,5025,0,0
+1729981536912,5857,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-100,text,true,,194720,1208,100,100,https://www.banglapuzzle.com/services,5008,0,0
+1729981534286,8571,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-50,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,8571
+1729981473784,69101,https://www.banglapuzzle.com/,200,OK,Thread Group 1-45,text,true,,297988,501,100,100,https://www.banglapuzzle.com/,24288,0,150
+1729981512089,30814,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-5,text,true,,142535,1208,100,100,https://www.banglapuzzle.com/products,27639,0,0
+1729981475369,67637,https://www.banglapuzzle.com/,200,OK,Thread Group 1-61,text,true,,298083,501,100,100,https://www.banglapuzzle.com/,23252,0,1599
+1729981472077,71170,https://www.banglapuzzle.com/,200,OK,Thread Group 1-28,text,true,,297909,501,100,100,https://www.banglapuzzle.com/,14281,0,172
+1729981535203,8126,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-77,text,true,,142566,1208,100,100,https://www.banglapuzzle.com/products,5233,0,0
+1729981472577,70833,https://www.banglapuzzle.com/,200,OK,Thread Group 1-33,text,true,,297965,501,100,100,https://www.banglapuzzle.com/,15153,0,158
+1729981522601,21082,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-20,text,true,,194708,1208,100,100,https://www.banglapuzzle.com/services,13888,0,0
+1729981521761,22729,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-18,text,true,,142630,1208,100,100,https://www.banglapuzzle.com/products,8366,0,0
+1729981470771,73727,https://www.banglapuzzle.com/,200,OK,Thread Group 1-15,text,true,,298093,501,100,100,https://www.banglapuzzle.com/,9389,0,161
+1729981471363,73202,https://www.banglapuzzle.com/,200,OK,Thread Group 1-21,text,true,,298024,501,100,100,https://www.banglapuzzle.com/,8702,0,144
+1729981532370,12348,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-4,text,true,,194604,1208,100,100,https://www.banglapuzzle.com/services,11417,0,9130
+1729981509756,35020,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-22,text,true,,142571,1208,100,100,https://www.banglapuzzle.com/products,7336,0,0
+1729981533306,11680,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-6,text,true,,194702,1208,100,100,https://www.banglapuzzle.com/services,10844,0,8921
+1729981472175,72985,https://www.banglapuzzle.com/,200,OK,Thread Group 1-29,text,true,,297836,501,100,100,https://www.banglapuzzle.com/,13965,0,153
+1729981474480,71004,https://www.banglapuzzle.com/,200,OK,Thread Group 1-52,text,true,,297870,501,100,100,https://www.banglapuzzle.com/,14560,0,156
+1729981537259,8645,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-78,text,true,,142642,1208,100,100,https://www.banglapuzzle.com/products,7733,0,6512
+1729981512066,33928,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-7,text,true,,142543,1208,100,100,https://www.banglapuzzle.com/products,7984,0,0
+1729981537615,8731,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-80,text,true,,142617,1208,100,100,https://www.banglapuzzle.com/products,7551,0,6173
+1729981474779,71919,https://www.banglapuzzle.com/,200,OK,Thread Group 1-55,text,true,,297964,501,100,100,https://www.banglapuzzle.com/,16085,0,143
+1729981538086,8908,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-83,text,true,,194664,1208,100,100,https://www.banglapuzzle.com/services,7667,0,5951
+1729981539563,7580,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-67,text,true,,142509,1208,100,100,https://www.banglapuzzle.com/products,6432,0,4572
+1729981538095,9393,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-84,text,true,,194669,1208,100,100,https://www.banglapuzzle.com/services,8007,0,5942
+1729981513649,33987,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-35,text,true,,142596,1208,100,100,https://www.banglapuzzle.com/products,16587,0,0
+1729981539420,8319,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-25,text,true,,142545,1208,100,100,https://www.banglapuzzle.com/products,7437,0,4714
+1729981538111,9780,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-82,text,true,,194621,1208,100,100,https://www.banglapuzzle.com/services,9041,0,5933
+1729981476561,71728,https://www.banglapuzzle.com/,200,OK,Thread Group 1-73,text,true,,298074,501,100,100,https://www.banglapuzzle.com/,27730,0,7306
+1729981541051,8308,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-76,text,true,,194552,1208,100,100,https://www.banglapuzzle.com/services,6962,0,3504
+1729981540218,9647,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-47,text,true,,142450,1208,100,100,https://www.banglapuzzle.com/products,8078,0,4277
+1729981539808,10475,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-66,text,true,,194495,1208,100,100,https://www.banglapuzzle.com/services,8651,0,4525
+1729981542525,7911,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-96,text,true,,194585,1208,100,100,https://www.banglapuzzle.com/services,5881,0,2240
+1729981541797,8858,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-13,text,true,,142450,1208,100,100,https://www.banglapuzzle.com/products,6913,0,2812
+1729981543008,7666,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-48,text,true,,142482,1208,100,100,https://www.banglapuzzle.com/products,5736,0,2273
+1729981540696,10335,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-31,text,true,,194476,1208,100,100,https://www.banglapuzzle.com/services,8162,0,3817
+1729981542175,9280,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-17,text,true,,142462,1208,100,100,https://www.banglapuzzle.com/products,7418,0,2581
+1729981543036,10184,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-42,text,true,,194554,1208,100,100,https://www.banglapuzzle.com/services,7068,0,2245
+1729981542415,11040,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-16,text,true,,194598,1208,100,100,https://www.banglapuzzle.com/services,7932,0,2341
+1729981542708,12064,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-46,text,true,,142532,1208,100,100,https://www.banglapuzzle.com/products,8339,0,2096
+1729981543110,11748,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-24,text,true,,142440,1208,100,100,https://www.banglapuzzle.com/products,8001,0,2233
+1729981544167,10727,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-99,text,true,,142477,1208,100,100,https://www.banglapuzzle.com/products,7113,0,1479
+1729981540700,14237,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-69,text,true,,142380,1208,100,100,https://www.banglapuzzle.com/products,10611,0,3816
+1729981542805,13978,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-54,text,true,,194537,1208,100,100,https://www.banglapuzzle.com/services,8823,0,2009
+1729981544813,12027,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-59,text,true,,194597,1208,100,100,https://www.banglapuzzle.com/services,6758,0,1939
+1729981542178,16220,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-81,text,true,,194524,1208,100,100,https://www.banglapuzzle.com/services,9908,0,2566
+1729981544343,14882,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-30,text,true,,194512,1208,100,100,https://www.banglapuzzle.com/services,7853,0,2079
+1729981542370,17961,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-14,text,true,,194509,1208,100,100,https://www.banglapuzzle.com/services,10233,0,2385
+1729981551458,9185,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-78,text,true,,194601,1208,100,100,https://www.banglapuzzle.com/services,8297,0,0
+1729981551901,8781,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-80,text,true,,194669,1208,100,100,https://www.banglapuzzle.com/services,7902,0,0
+1729981543573,17393,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-62,text,true,,194585,1208,100,100,https://www.banglapuzzle.com/services,9408,0,1844
+1729981541870,19276,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-75,text,true,,142479,1208,100,100,https://www.banglapuzzle.com/products,11363,0,2745
+1729981544970,16609,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-97,text,true,,142449,1208,100,100,https://www.banglapuzzle.com/products,8606,0,1800
+1729981553294,8770,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-25,text,true,,194653,1208,100,100,https://www.banglapuzzle.com/services,8297,0,0
+1729981544167,17986,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-63,text,true,,194612,1208,100,100,https://www.banglapuzzle.com/services,9694,0,1480
+1729981545074,17711,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-65,text,true,,194575,1208,100,100,https://www.banglapuzzle.com/services,9848,0,1946
+1729981545676,17248,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-58,text,true,,142506,1208,100,100,https://www.banglapuzzle.com/products,9428,0,1968
+1729981546312,16853,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-3,text,true,,187423,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,8831,0,1848
+1729981547353,16124,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-11,text,true,,187372,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,8072,0,1049
+1729981545728,17826,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-38,text,true,,194584,1208,100,100,https://www.banglapuzzle.com/services,9767,0,1922
+1729981555418,8546,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-47,text,true,,194644,1208,100,100,https://www.banglapuzzle.com/services,8152,0,0
+1729981545213,18821,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-57,text,true,,194513,1208,100,100,https://www.banglapuzzle.com/services,10673,0,2297
+1729981547316,16802,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-43,text,true,,194634,1208,100,100,https://www.banglapuzzle.com/services,8754,0,1086
+1729981547473,16704,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-37,text,true,,142551,1208,100,100,https://www.banglapuzzle.com/products,9038,0,1913
+1729981545696,18985,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-60,text,true,,194535,1208,100,100,https://www.banglapuzzle.com/services,10792,0,1985
+1729981546136,18822,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-36,text,true,,194505,1208,100,100,https://www.banglapuzzle.com/services,10747,0,1770
+1729981545956,19046,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-10,text,true,,187344,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,11009,0,1817
+1729981546743,18268,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-2,text,true,,187449,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,10182,0,1437
+1729981546865,18490,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-1,text,true,,187350,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,10680,0,1408
+1729981547466,17897,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-53,text,true,,142422,1208,100,100,https://www.banglapuzzle.com/products,10422,0,1750
+1729981473374,92201,https://www.banglapuzzle.com/,200,OK,Thread Group 1-41,text,true,,298026,501,100,100,https://www.banglapuzzle.com/,13391,0,145
+1729981548410,17419,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-50,text,true,,194687,1208,100,100,https://www.banglapuzzle.com/services,12277,0,4045
+1729981472475,94764,https://www.banglapuzzle.com/,200,OK,Thread Group 1-32,text,true,,297975,501,100,100,https://www.banglapuzzle.com/,14516,0,171
+1729981544706,23089,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-74,text,true,,194604,1208,100,100,https://www.banglapuzzle.com/services,9240,0,2031
+1729981539826,28065,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-34,text,true,,194514,1208,100,100,https://www.banglapuzzle.com/services,14559,0,4507
+1729981549307,18617,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-33,text,true,,142575,1208,100,100,https://www.banglapuzzle.com/products,13619,0,5410
+1729981558440,10406,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-27,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,10406
+1729981558929,10006,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-19,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,10005
+1729981545931,23026,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-26,text,true,,194452,1208,100,100,https://www.banglapuzzle.com/services,12160,0,1834
+1729981552596,16381,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-55,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,16381
+1729981559442,9535,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-64,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,9535
+1729981547391,21677,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-56,text,true,,142426,1208,100,100,https://www.banglapuzzle.com/products,11242,0,1012
+1729981553191,15974,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-35,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,15974
+1729981546952,22244,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-12,text,true,,142470,1208,100,100,https://www.banglapuzzle.com/products,12186,0,1335
+1729981546987,22239,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-40,text,true,,194585,1208,100,100,https://www.banglapuzzle.com/services,11398,0,1303
+1729981547228,22046,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-44,text,true,,194515,1208,100,100,https://www.banglapuzzle.com/services,11188,0,1172
+1729981546895,22412,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-49,text,true,,194590,1208,100,100,https://www.banglapuzzle.com/services,11569,0,1388
+1729981560533,8775,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-86,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,8774
+1729981560411,8915,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-87,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,8915
+1729981560446,8904,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-85,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,8904
+1729981560325,9338,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-46,text,true,,194628,1208,100,100,https://www.banglapuzzle.com/services,5414,0,0
+1729981548063,21800,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-79,text,true,,194647,1208,100,100,https://www.banglapuzzle.com/services,11322,0,2973
+1729981565328,4715,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-4,text,true,,187632,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,4069,0,0
+1729981560412,9657,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-24,text,true,,194568,1208,100,100,https://www.banglapuzzle.com/services,5496,0,0
+1729981560450,9988,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-99,text,true,,194708,1208,100,100,https://www.banglapuzzle.com/services,5704,0,0
+1729981565597,4900,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-6,text,true,,187537,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,4324,0,0
+1729981560490,10034,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-69,text,true,,194650,1208,100,100,https://www.banglapuzzle.com/services,5635,0,0
+1729981554185,16341,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-73,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,16340
+1729981550044,20631,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-18,text,true,,194670,1208,100,100,https://www.banglapuzzle.com/services,16438,0,10660
+1729981552697,18108,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-67,text,true,,194625,1208,100,100,https://www.banglapuzzle.com/services,8335,0,0
+1729981550329,20614,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-22,text,true,,194612,1208,100,100,https://www.banglapuzzle.com/services,16512,0,10725
+1729981550394,20826,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-15,text,true,,142562,1208,100,100,https://www.banglapuzzle.com/products,16864,0,10965
+1729981550462,20853,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-21,text,true,,142595,1208,100,100,https://www.banglapuzzle.com/products,16960,0,11077
+1729981551057,20676,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-29,text,true,,142530,1208,100,100,https://www.banglapuzzle.com/products,16875,0,11617
+1729981551380,20428,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-52,text,true,,142487,1208,100,100,https://www.banglapuzzle.com/products,16666,0,11413
+1729981549144,22797,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-28,text,true,,142524,1208,100,100,https://www.banglapuzzle.com/products,13650,0,5532
+1729981567623,4512,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-83,text,true,,187567,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,4157,0,0
+1729981551549,20805,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-7,text,true,,194685,1208,100,100,https://www.banglapuzzle.com/services,16772,0,11605
+1729981556208,16407,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-13,text,true,,194609,1208,100,100,https://www.banglapuzzle.com/services,8022,0,0
+1729981556228,16391,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-48,text,true,,194685,1208,100,100,https://www.banglapuzzle.com/services,7975,0,0
+1729981557008,15781,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-17,text,true,,194675,1208,100,100,https://www.banglapuzzle.com/services,8019,0,0
+1729981568098,4800,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-84,text,true,,187528,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,4155,0,0
+1729981568501,4958,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-82,text,true,,187600,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,4412,0,0
+1729981566700,7611,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-75,text,true,,194638,1208,100,100,https://www.banglapuzzle.com/services,4161,0,0
+1729981474381,100316,https://www.banglapuzzle.com/,200,OK,Thread Group 1-51,text,true,,297877,501,100,100,https://www.banglapuzzle.com/,23655,0,168
+1729981548456,27388,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-5,text,true,,194734,1208,100,100,https://www.banglapuzzle.com/services,12751,0,4405
+1729981567132,9438,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-97,text,true,,194650,1208,100,100,https://www.banglapuzzle.com/services,4197,0,0
+1729981569975,7060,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-76,text,true,,187465,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5520,0,0
+1729981548780,28552,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-45,text,true,,142522,1208,100,100,https://www.banglapuzzle.com/products,13399,0,4968
+1729981568477,10743,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-58,text,true,,194656,1208,100,100,https://www.banglapuzzle.com/services,4474,0,0
+1729981560617,18891,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-93,text,true,,185367,520,100,100,https://www.banglapuzzle.com/industry/healthcare,12888,0,8735
+1729981560649,18908,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-92,text,true,,185312,520,100,100,https://www.banglapuzzle.com/industry/healthcare,12934,0,8728
+1729981556831,22741,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-72,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,22741
+1729981557054,22614,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-70,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,22614
+1729981557373,22425,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-9,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,22425
+1729981560649,19372,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-88,text,true,,185318,520,100,100,https://www.banglapuzzle.com/industry/healthcare,13396,0,8675
+1729981560646,19769,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-91,text,true,,185313,520,100,100,https://www.banglapuzzle.com/industry/healthcare,13532,0,8684
+1729981560971,19802,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-23,text,true,,187533,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,13855,0,8742
+1729981560647,20195,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-95,text,true,,185291,520,100,100,https://www.banglapuzzle.com/industry/healthcare,13751,0,8700
+1729981560651,20604,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-94,text,true,,185298,520,100,100,https://www.banglapuzzle.com/industry/healthcare,13803,0,8716
+1729981561018,20270,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-71,text,true,,187415,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,14145,0,8865
+1729981560999,20650,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-68,text,true,,187460,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,14658,0,8775
+1729981560642,21083,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-89,text,true,,185312,520,100,100,https://www.banglapuzzle.com/industry/healthcare,14104,0,8728
+1729981560617,21169,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-90,text,true,,185357,520,100,100,https://www.banglapuzzle.com/industry/healthcare,14140,0,8735
+1729981569732,12233,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-37,text,true,,194677,1208,100,100,https://www.banglapuzzle.com/services,5855,0,0
+1729981571472,10718,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-41,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,10717
+1729981548904,33334,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-61,text,true,,142440,1208,100,100,https://www.banglapuzzle.com/products,22597,0,4955
+1729981570893,11458,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-66,text,true,,187522,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6174,0,0
+1729981570917,11614,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-53,text,true,,194724,1208,100,100,https://www.banglapuzzle.com/services,6347,0,0
+1729981571046,11746,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-96,text,true,,187508,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6433,0,0
+1729981571641,11850,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-31,text,true,,187556,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6470,0,0
+1729981545403,39270,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-8,text,true,,194570,1208,100,100,https://www.banglapuzzle.com/services,8513,0,2155
+1729981573135,11965,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-32,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,11965
+1729981573831,11768,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-42,text,true,,187503,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5959,0,0
+1729981573478,12159,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-33,text,true,,194709,1208,100,100,https://www.banglapuzzle.com/services,6106,0,0
+1729981574066,11673,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-16,text,true,,187496,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6113,0,0
+1729981574531,11212,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-55,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,11212
+1729981574750,11364,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-12,text,true,,194740,1208,100,100,https://www.banglapuzzle.com/services,6141,0,0
+1729981574625,11603,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-56,text,true,,194706,1208,100,100,https://www.banglapuzzle.com/services,6435,0,0
+1729981575505,11135,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-3,text,true,,187448,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6164,0,0
+1729981576079,10635,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-73,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,10635
+1729981581293,5778,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-80,text,true,,187545,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5280,0,0
+1729981575817,11322,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-11,text,true,,187411,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6156,0,0
+1729981581255,6142,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-78,text,true,,187604,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5489,0,0
+1729981576869,10891,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-21,text,true,,194656,1208,100,100,https://www.banglapuzzle.com/services,5538,0,0
+1729981548885,38959,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-77,text,true,,194605,1208,100,100,https://www.banglapuzzle.com/services,13437,0,4972
+1729981576774,11171,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-15,text,true,,194789,1208,100,100,https://www.banglapuzzle.com/services,5789,0,0
+1729981582382,5986,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-4,text,true,,187476,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,5443,0,0
+1729981577342,11207,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-10,text,true,,187468,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,5845,0,0
+1729981582674,6000,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-25,text,true,,187552,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5481,0,0
+1729981577287,11476,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-29,text,true,,194669,1208,100,100,https://www.banglapuzzle.com/services,5726,0,0
+1729981577393,11840,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-54,text,true,,187389,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6221,0,0
+1729981582838,6620,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-6,text,true,,187514,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6067,0,0
+1729981577452,12448,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-59,text,true,,187539,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6450,0,0
+1729981577351,12682,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-2,text,true,,187339,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6716,0,0
+1729981577361,12843,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-52,text,true,,194595,1208,100,100,https://www.banglapuzzle.com/services,6344,0,0
+1729981577695,12551,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-1,text,true,,187476,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6628,0,0
+1729981563299,26989,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-98,text,true,,187493,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,14925,0,8638
+1729981577494,13061,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-28,text,true,,194669,1208,100,100,https://www.banglapuzzle.com/services,6561,0,0
+1729981579009,11969,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-81,text,true,,187566,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6157,0,0
+1729981563379,27623,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-100,text,true,,187493,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,15157,0,8574
+1729981584574,6772,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-47,text,true,,187561,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6108,0,0
+1729981564294,27118,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-20,text,true,,187594,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,14731,0,8128
+1729981579836,12157,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-30,text,true,,187426,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5915,0,0
+1729981580594,11644,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-51,text,false,,3253,0,100,100,https://www.banglapuzzle.com/products,0,0,11644
+1729981585238,7265,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-84,text,true,,187459,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6534,0,0
+1729981584475,8291,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-83,text,true,,187394,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,7643,0,0
+1729981580946,12016,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-14,text,true,,187485,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5300,0,0
+1729981585798,7699,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-82,text,true,,187371,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,7380,0,0
+1729981581577,12278,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-62,text,true,,187377,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5599,0,0
+1729981582763,11390,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-63,text,true,,187598,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5931,0,0
+1729981582886,11914,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-45,text,true,,194582,1208,100,100,https://www.banglapuzzle.com/services,5799,0,0
+1729981583396,11510,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-65,text,true,,187513,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6109,0,0
+1729981589374,6009,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-76,text,true,,187381,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,5571,0,0
+1729981584165,11639,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-38,text,true,,187451,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6180,0,0
+1729981590274,6316,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-46,text,true,,187492,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6011,0,0
+1729981584728,11992,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-43,text,true,,187566,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6257,0,0
+1729981590679,6796,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-24,text,true,,187620,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6158,0,0
+1729981584645,12836,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-57,text,true,,187598,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6692,0,0
+1729981591050,6744,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-99,text,true,,187472,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5998,0,0
+1729981591134,6835,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-69,text,true,,187462,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6244,0,0
+1729981585292,12854,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-60,text,true,,187528,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6515,0,0
+1729981591416,7193,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-67,text,true,,187545,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6744,0,0
+1729981585569,13703,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-36,text,true,,187464,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,7067,0,0
+1729981591898,7766,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-92,text,true,,187466,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6792,0,0
+1729981591848,7866,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-93,text,true,,187494,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6926,0,0
+1729981586440,13601,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-50,text,true,,187469,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,7074,0,0
+1729981592802,7540,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-3,text,true,,128502,1208,100,100,https://www.banglapuzzle.com/partners,7237,0,0
+1729981587743,12600,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-41,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,12600
+1729981587791,13276,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-61,text,true,,194714,1208,100,100,https://www.banglapuzzle.com/services,6131,0,0
+1729981588406,12694,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-74,text,true,,187565,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5925,0,0
+1729981588502,12651,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-34,text,true,,187584,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5759,0,0
+1729981589775,11496,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-35,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,11496
+1729981589569,11863,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-26,text,true,,187524,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5511,0,0
+1729981589837,12247,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-40,text,true,,187526,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5684,0,0
+1729981593301,9073,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-11,text,true,,128452,1208,100,100,https://www.banglapuzzle.com/partners,8424,0,0
+1729981593230,9248,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-48,text,true,,187459,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,8485,0,0
+1729981589885,12674,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-44,text,true,,187508,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5838,0,0
+1729981589918,13173,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-49,text,true,,187577,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5970,0,0
+1729981590653,13312,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-32,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,13312
+1729981593225,10740,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-13,text,true,,187490,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,9644,0,0
+1729981597181,8611,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-97,text,true,,187504,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,8248,0,0
+1729981591913,13905,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-72,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,13905
+1729981592007,13858,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-70,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,13858
+1729981592138,13851,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-9,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,13850
+1729981591286,14890,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-18,text,true,,187583,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6748,0,0
+1729981591554,14628,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-22,text,true,,187547,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6497,0,0
+1729981597938,8562,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-42,text,true,,187553,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,8052,0,0
+1729981598079,8592,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-16,text,true,,187519,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,8138,0,0
+1729981592360,14451,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-88,text,true,,187520,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6972,0,0
+1729981592754,14181,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-91,text,true,,187483,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,7053,0,0
+1729981599831,7556,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-58,text,true,,187512,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,7207,0,0
+1729981581317,26107,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-64,text,true,,187393,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,19198,0,11553
+1729981594529,12917,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-4,text,false,,3253,0,100,100,https://www.banglapuzzle.com/partners,0,0,12916
+1729981581274,26293,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-19,text,true,,187391,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,19842,0,11592
+1729981581186,26503,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-27,text,true,,187331,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,20299,0,11668
+1729981595620,12260,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-6,text,false,,3253,0,100,100,https://www.banglapuzzle.com/partners,0,0,12260
+1729981601573,6506,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-54,text,true,,187464,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6189,0,0
+1729981592964,15142,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-7,text,true,,187441,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,8819,0,0
+1729981581691,26627,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-85,text,true,,185213,520,100,100,https://www.banglapuzzle.com/industry/rmg-sector,20856,0,11636
+1729981602239,6431,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-59,text,true,,187293,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6050,0,0
+1729981593113,15832,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-23,text,true,,187367,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,9508,0,0
+1729981581666,27518,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-87,text,true,,185217,520,100,100,https://www.banglapuzzle.com/industry/rmg-sector,21441,0,11664
+1729981603142,6508,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-53,text,true,,187453,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6103,0,0
+1729981604333,6848,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-30,text,true,,187353,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6354,0,0
+1729981596407,14869,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-1,text,true,,128549,1208,100,100,https://www.banglapuzzle.com/partners,14789,0,0
+1729981605824,6177,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-92,text,true,,128595,1208,100,100,https://www.banglapuzzle.com/partners,5799,0,0
+1729981599737,12343,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-78,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,12343
+1729981605875,6211,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-93,text,true,,128538,1208,100,100,https://www.banglapuzzle.com/partners,5827,0,0
+1729981601015,11609,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-25,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,11609
+1729981606723,6138,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-12,text,true,,187544,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5543,0,0
+1729981606838,6095,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-56,text,true,,187492,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5558,0,0
+1729981601545,11414,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-76,text,false,,3253,0,100,100,https://www.banglapuzzle.com/partners,0,0,11414
+1729981593595,19458,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-94,text,true,,187347,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,9302,0,0
+1729981603318,10020,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-81,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,10020
+1729981602575,10781,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-37,text,true,,187548,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6186,0,0
+1729981593181,20221,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-95,text,true,,187297,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,10234,0,0
+1729981602628,10777,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-98,text,true,,187537,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,5918,0,0
+1729981593628,20119,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-71,text,true,,187486,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,9991,0,0
+1729981603685,10071,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-47,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,10071
+1729981608369,5783,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-21,text,true,,187443,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,4958,0,0
+1729981603341,11093,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-100,text,true,,187473,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6340,0,0
+1729981603752,10883,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-20,text,true,,187422,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,6054,0,0
+1729981608554,6156,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-15,text,true,,187503,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5081,0,0
+1729981594922,20226,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-75,text,true,,187454,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,15481,0,0
+1729981597792,17422,https://www.banglapuzzle.com/services,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-51,text,false,,3253,0,100,100,https://www.banglapuzzle.com/services,0,0,17421
+1729981609373,6077,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-29,text,true,,187534,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,4888,0,0
+1729981595132,20494,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-96,text,true,,187389,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,15462,0,0
+1729981605299,10575,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-14,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,10575
+1729981598665,17235,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-84,text,false,,3253,0,100,100,https://www.banglapuzzle.com/partners,0,0,17234
+1729981605282,10771,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-8,text,true,,187551,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6049,0,0
+1729981596455,19675,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-5,text,true,,187492,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,14663,0,0
+1729981598926,17215,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-83,text,false,,3253,0,100,100,https://www.banglapuzzle.com/partners,0,0,17215
+1729981606193,9968,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-62,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,9968
+1729981606352,9839,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-55,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,9838
+1729981599411,16815,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-80,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,16815
+1729981606492,9755,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-63,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,9754
+1729981599658,16678,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-82,text,false,,3253,0,100,100,https://www.banglapuzzle.com/partners,0,0,16678
+1729981607244,9234,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-65,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/rmg-sector,0,0,9234
+1729981606246,10263,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-33,text,true,,187461,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5841,0,0
+1729981607323,9188,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-73,text,false,,3253,0,100,100,https://www.banglapuzzle.com/industry/healthcare,0,0,9188
+1729981473175,143456,https://www.banglapuzzle.com/,200,OK,Thread Group 1-39,text,true,,298051,501,100,100,https://www.banglapuzzle.com/,14219,0,151
+1729981608453,8467,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-77,text,true,,187547,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,4893,0,0
+1729981612972,4210,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-88,text,true,,128588,1208,100,100,https://www.banglapuzzle.com/partners,3799,0,0
+1729981613095,4176,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-91,text,true,,128633,1208,100,100,https://www.banglapuzzle.com/partners,3817,0,0
+1729981594064,24004,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-89,text,true,,187461,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,10340,0,0
+1729981613585,4620,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-64,text,true,,128530,1208,100,100,https://www.banglapuzzle.com/partners,3712,0,0
+1729981613729,4504,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-19,text,true,,128527,1208,100,100,https://www.banglapuzzle.com/partners,3546,0,0
+1729981613851,4499,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-27,text,true,,128503,1208,100,100,https://www.banglapuzzle.com/partners,3533,0,0
+1729981594125,24290,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-90,text,true,,187452,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,16205,0,0
+1729981590473,27962,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-79,text,true,,187500,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,6006,0,0
+1729981614479,4214,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-85,text,true,,128523,1208,100,100,https://www.banglapuzzle.com/partners,3670,0,0
+1729981615106,3909,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-23,text,true,,128602,1208,100,100,https://www.banglapuzzle.com/partners,3581,0,0
+1729981610813,8347,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-52,text,true,,187477,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,5277,0,0
+1729981615345,4069,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-87,text,true,,128645,1208,100,100,https://www.banglapuzzle.com/partners,3536,0,0
+1729981581648,38313,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-86,text,true,,185264,520,100,100,https://www.banglapuzzle.com/industry/rmg-sector,22668,0,11669
+1729981593400,27273,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-17,text,true,,187454,1219,100,100,https://www.banglapuzzle.com/industry/healthcare,10462,0,0
+1729981594691,26693,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-66,text,true,,187448,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,15821,0,0
+1729981596196,25211,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-2,text,true,,128607,1208,100,100,https://www.banglapuzzle.com/partners,14718,0,0
+1729981595831,25745,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-31,text,true,,187511,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,15201,0,0
+1729981593988,27787,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-68,text,true,,187378,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,16376,0,0
+1729981608142,14595,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-38,text,true,,187425,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,11296,0,8492
+1729981609058,13929,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-43,text,true,,187410,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,10538,0,7654
+1729981608928,14161,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-46,text,true,,187420,1219,100,100,https://www.banglapuzzle.com/industry/rmg-sector,10817,0,7763
+1729981609306,13883,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-3,text,true,,181083,1207,100,100,https://www.banglapuzzle.com/contact,10814,0,7511
+1729981469537,94118,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-3,,true,,1319683,7770,100,100,null,54452,59536,10206
+1729981594711,28544,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-10,text,true,,128513,1208,99,99,https://www.banglapuzzle.com/partners,19754,0,0
+1729981609820,13599,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-57,text,true,,187493,1219,99,99,https://www.banglapuzzle.com/industry/rmg-sector,10538,0,7496
+1729981609814,13795,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-24,text,true,,187485,1219,99,99,https://www.banglapuzzle.com/industry/rmg-sector,10690,0,7497
+1729981612150,11547,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-9,text,true,,128525,1208,99,99,https://www.banglapuzzle.com/partners,11163,0,7095
+1729981611981,12226,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-72,text,true,,128495,1208,99,99,https://www.banglapuzzle.com/partners,11721,0,7214
+1729981610134,14111,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-99,text,true,,187450,1219,99,99,https://www.banglapuzzle.com/industry/rmg-sector,10928,0,7702
+1729981612027,12488,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-70,text,true,,128482,1208,99,99,https://www.banglapuzzle.com/partners,11733,0,7176
+1729981612661,13213,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-42,text,true,,128467,1208,99,99,https://www.banglapuzzle.com/partners,11732,0,6647
+1729981610486,15392,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-60,text,true,,187464,1219,99,99,https://www.banglapuzzle.com/industry/rmg-sector,11117,0,7974
+1729981619567,6635,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-98,text,true,,128539,1208,99,99,https://www.banglapuzzle.com/partners,4818,0,0
+1729981610309,16021,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-69,text,true,,187474,1219,99,99,https://www.banglapuzzle.com/industry/rmg-sector,11471,0,8002
+1729981619214,7654,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-94,text,true,,128514,1208,99,99,https://www.banglapuzzle.com/partners,6681,0,0
+1729981610949,16536,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-67,text,true,,187553,1219,99,99,https://www.banglapuzzle.com/industry/rmg-sector,11169,0,7746
+1729981614239,13419,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-54,text,true,,128499,1208,99,99,https://www.banglapuzzle.com/partners,12336,0,5651
+1729981619908,8021,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-71,text,true,,128451,1208,99,99,https://www.banglapuzzle.com/partners,6429,0,0
+1729981611166,17047,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-28,text,true,,187466,1219,99,99,https://www.banglapuzzle.com/industry/healthcare,11122,0,7618
+1729981619563,8807,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-95,text,true,,128454,1208,99,99,https://www.banglapuzzle.com/partners,7138,0,0
+1729981611340,17526,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-11,text,true,,181114,1207,99,99,https://www.banglapuzzle.com/contact,11108,0,7491
+1729981470390,98940,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-11,,true,,1319505,7770,99,99,null,56206,59537,8714
+1729981620596,9111,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-100,text,true,,128515,1208,98,98,https://www.banglapuzzle.com/partners,6997,0,0
+1729981612832,17029,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-16,text,true,,128510,1208,98,98,https://www.banglapuzzle.com/partners,12826,0,6470
+1729981620797,9340,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-20,text,true,,128547,1208,98,98,https://www.banglapuzzle.com/partners,7426,0,0
+1729981614832,15397,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-59,text,true,,128485,1208,98,98,https://www.banglapuzzle.com/partners,13408,0,6053
+1729981617341,13137,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-30,text,true,,128651,1208,98,98,https://www.banglapuzzle.com/partners,12902,0,5759
+1729981612379,18372,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-50,text,true,,187478,1219,98,98,https://www.banglapuzzle.com/industry/rmg-sector,11838,0,6910
+1729981611611,19500,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-36,text,true,,187423,1219,98,98,https://www.banglapuzzle.com/industry/rmg-sector,12931,0,7453
+1729981618242,12901,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-78,text,true,,128640,1208,98,98,https://www.banglapuzzle.com/partners,12587,0,5724
+1729981613771,17932,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-26,text,true,,187432,1219,98,98,https://www.banglapuzzle.com/industry/rmg-sector,11176,0,5655
+1729981613610,18176,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-35,text,true,,187356,1219,98,98,https://www.banglapuzzle.com/industry/rmg-sector,11175,0,5796
+1729981613494,18490,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-34,text,true,,187512,1219,98,98,https://www.banglapuzzle.com/industry/rmg-sector,11828,0,5890
+1729981618785,13321,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-25,text,true,,128538,1208,98,98,https://www.banglapuzzle.com/partners,13024,0,6159
+1729981613440,18877,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-74,text,true,,187369,1219,98,98,https://www.banglapuzzle.com/industry/rmg-sector,12947,0,5941
+1729981614423,18296,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-40,text,true,,187341,1219,98,98,https://www.banglapuzzle.com/industry/rmg-sector,12846,0,5843
+1729981622323,10481,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-62,text,false,,3253,0,98,98,https://www.banglapuzzle.com/partners,0,0,10480
+1729981626122,6702,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-86,text,true,,128548,1208,98,98,https://www.banglapuzzle.com/partners,6223,0,0
+1729981622388,10660,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-80,text,false,,3253,0,98,98,https://www.banglapuzzle.com/partners,0,0,10660
+1729981622409,10749,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-63,text,false,,3253,0,98,98,https://www.banglapuzzle.com/partners,0,0,10749
+1729981614817,18387,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-48,text,true,,187421,1219,98,98,https://www.banglapuzzle.com/industry/rmg-sector,12955,0,6066
+1729981614898,18727,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-44,text,true,,187456,1219,98,98,https://www.banglapuzzle.com/industry/rmg-sector,13167,0,5986
+1729981615430,18449,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-49,text,true,,187556,1219,98,98,https://www.banglapuzzle.com/industry/rmg-sector,12954,0,5960
+1729981622527,11370,https://www.banglapuzzle.com/products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-39,text,false,,3253,0,98,98,https://www.banglapuzzle.com/products,0,0,11369
+1729981622640,11362,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-65,text,false,,3253,0,98,98,https://www.banglapuzzle.com/partners,0,0,11361
+1729981616844,17826,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-6,text,true,,181203,1207,98,98,https://www.banglapuzzle.com/contact,12569,0,5439
+1729981469845,105292,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-6,,false,,1194738,6562,98,98,null,54932,59534,27156
+1729981628900,5802,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-38,text,true,,128488,1208,97,97,https://www.banglapuzzle.com/partners,5191,0,0
+1729981616410,18493,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-4,text,true,,181127,1207,97,97,https://www.banglapuzzle.com/contact,13075,0,5692
+1729981469652,105698,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-4,,false,,1194812,6562,97,97,null,49037,59554,28465
+1729981629150,5870,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-43,text,true,,128575,1208,96,96,https://www.banglapuzzle.com/partners,5352,0,0
+1729981619498,15604,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-81,text,true,,128494,1208,96,96,https://www.banglapuzzle.com/partners,14769,0,9540
+1729981629251,6133,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-46,text,true,,128558,1208,96,96,https://www.banglapuzzle.com/partners,5709,0,0
+1729981629581,6019,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-57,text,true,,128530,1208,96,96,https://www.banglapuzzle.com/partners,5565,0,0
+1729981629771,6380,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-24,text,true,,128591,1208,96,96,https://www.banglapuzzle.com/partners,5611,0,0
+1729981624228,12015,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-89,text,false,,3253,0,96,96,https://www.banglapuzzle.com/partners,0,0,12014
+1729981618131,18441,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-97,text,true,,187430,1219,96,96,https://www.banglapuzzle.com/industry/rmg-sector,12372,0,5610
+1729981624577,12221,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-32,text,false,,3253,0,96,96,https://www.banglapuzzle.com/industry/healthcare,0,0,12221
+1729981624577,12223,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-90,text,false,,3253,0,96,96,https://www.banglapuzzle.com/partners,0,0,12223
+1729981619917,16978,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-47,text,true,,128479,1208,96,96,https://www.banglapuzzle.com/partners,15959,0,10172
+1729981624864,12384,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-84,text,false,,3253,0,96,96,https://www.banglapuzzle.com/contact,0,0,12384
+1729981477651,100069,Test,,"Number of samples in transaction : 7, number of failing samples : 2",Thread Group 1-84,,false,,1016871,5355,96,96,null,54125,59528,47434
+1729981630407,7051,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-99,text,true,,128550,1208,95,95,https://www.banglapuzzle.com/partners,6390,0,0
+1729981618517,19085,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-18,text,true,,187468,1219,95,95,https://www.banglapuzzle.com/industry/rmg-sector,12715,0,6008
+1729981625106,12523,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-83,text,false,,3253,0,95,95,https://www.banglapuzzle.com/contact,0,0,12523
+1729981477553,100524,Test,,"Number of samples in transaction : 7, number of failing samples : 2",Thread Group 1-83,,false,,1016824,5355,95,95,null,46492,59553,47413
+1729981625200,12481,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-12,text,false,,3253,0,94,94,https://www.banglapuzzle.com/industry/rmg-sector,0,0,12481
+1729981625273,12425,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-56,text,false,,3253,0,94,94,https://www.banglapuzzle.com/industry/rmg-sector,0,0,12424
+1729981625300,12398,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-82,text,false,,3253,0,94,94,https://www.banglapuzzle.com/contact,0,0,12398
+1729981477454,100715,Test,,"Number of samples in transaction : 7, number of failing samples : 2",Thread Group 1-82,,false,,1016850,5355,94,94,null,47411,59530,46256
+1729981625696,12026,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-37,text,false,,3253,0,93,93,https://www.banglapuzzle.com/industry/rmg-sector,0,0,12026
+1729981626146,11585,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-88,text,false,,3253,0,93,93,https://www.banglapuzzle.com/contact,0,0,11585
+1729981478051,100122,Test,,"Number of samples in transaction : 7, number of failing samples : 4",Thread Group 1-88,,false,,514438,2947,93,93,null,24167,59559,70763
+1729981626492,11253,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-21,text,false,,3253,0,92,92,https://www.banglapuzzle.com/industry/rmg-sector,0,0,11253
+1729981626236,11509,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-91,text,false,,3253,0,92,92,https://www.banglapuzzle.com/contact,0,0,11509
+1729981478348,99843,Test,,"Number of samples in transaction : 7, number of failing samples : 4",Thread Group 1-91,,false,,514441,2947,92,92,null,24402,59555,70401
+1729981627052,10754,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-15,text,false,,3253,0,91,91,https://www.banglapuzzle.com/industry/rmg-sector,0,0,10754
+1729981627486,10485,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-75,text,false,,3253,0,91,91,https://www.banglapuzzle.com/industry/rmg-sector,0,0,10485
+1729981627545,10426,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-66,text,false,,3253,0,91,91,https://www.banglapuzzle.com/partners,0,0,10426
+1729981632040,6029,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-60,text,true,,128512,1208,91,91,https://www.banglapuzzle.com/partners,5727,0,0
+1729981627737,10356,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-31,text,false,,3253,0,91,91,https://www.banglapuzzle.com/partners,0,0,10356
+1729981627789,10344,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-29,text,false,,3253,0,91,91,https://www.banglapuzzle.com/industry/rmg-sector,0,0,10344
+1729981627170,11224,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-64,text,true,,181103,1207,91,91,https://www.banglapuzzle.com/contact,5635,0,0
+1729981475664,103194,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-64,,false,,1135535,6551,91,91,null,64619,59536,24378
+1729981627937,10583,https://www.banglapuzzle.com/partners,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-68,text,false,,3253,0,90,90,https://www.banglapuzzle.com/partners,0,0,10583
+1729981627197,11375,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-19,text,true,,181206,1207,90,90,https://www.banglapuzzle.com/contact,5646,0,0
+1729981471162,107882,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-19,,false,,1135674,6551,90,90,null,71255,59529,21726
+1729981627978,10863,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-23,text,false,,3253,0,89,89,https://www.banglapuzzle.com/contact,0,0,10863
+1729981471562,107727,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-23,,false,,1141997,6563,89,89,null,49600,59553,19775
+1729981627316,11628,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-27,text,true,,181135,1207,88,88,https://www.banglapuzzle.com/contact,5573,0,0
+1729981471974,107432,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-27,,false,,1135403,6551,88,88,null,48599,59539,22214
+1729981627657,12419,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-85,text,true,,181184,1207,87,87,https://www.banglapuzzle.com/contact,5721,0,0
+1729981477751,102792,Test,,"Number of samples in transaction : 7, number of failing samples : 4",Thread Group 1-85,,false,,507932,2935,87,87,null,30247,59534,71167
+1729981628393,11684,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-8,text,false,,3253,0,87,87,https://www.banglapuzzle.com/industry/rmg-sector,0,0,11684
+1729981632491,7594,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-69,text,true,,128520,1208,86,86,https://www.banglapuzzle.com/partners,6691,0,0
+1729981628469,11681,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-5,text,false,,3253,0,86,86,https://www.banglapuzzle.com/industry/rmg-sector,0,0,11681
+1729981632661,7544,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-9,text,true,,181135,1207,86,86,https://www.banglapuzzle.com/contact,6572,0,0
+1729981470159,110515,Test,,"Number of samples in transaction : 7, number of failing samples : 2",Thread Group 1-9,,false,,951362,5332,86,86,null,41385,59532,43597
+1729981628531,11687,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-55,text,false,,3253,0,85,85,https://www.banglapuzzle.com/industry/rmg-sector,0,0,11686
+1729981621788,18518,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-96,text,true,,128457,1208,85,85,https://www.banglapuzzle.com/partners,16421,0,10326
+1729981628849,11558,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-33,text,false,,3253,0,85,85,https://www.banglapuzzle.com/industry/rmg-sector,0,0,11558
+1729981628852,11555,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-73,text,false,,3253,0,85,85,https://www.banglapuzzle.com/industry/rmg-sector,0,0,11554
+1729981622036,18562,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-14,text,true,,128467,1208,85,85,https://www.banglapuzzle.com/partners,16377,0,10299
+1729981628378,12710,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-87,text,true,,181161,1207,85,85,https://www.banglapuzzle.com/contact,5608,0,0
+1729981477952,103608,Test,,"Number of samples in transaction : 7, number of failing samples : 4",Thread Group 1-87,,false,,508035,2935,85,85,null,30585,59529,70974
+1729981615410,25692,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-45,text,true,,187556,1219,84,84,https://www.banglapuzzle.com/industry/healthcare,13174,0,5969
+1729981633648,7520,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-67,text,true,,128608,1208,84,84,https://www.banglapuzzle.com/partners,7053,0,0
+1729981616305,24983,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-13,text,true,,187458,1219,84,84,https://www.banglapuzzle.com/industry/rmg-sector,12958,0,5780
+1729981630372,11139,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-2,text,false,,3253,0,84,84,https://www.banglapuzzle.com/contact,0,0,11138
+1729981469460,112443,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-2,,false,,1141816,6563,84,84,null,53578,59608,13424
+1729981619727,21915,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-58,text,true,,187428,1219,83,83,https://www.banglapuzzle.com/industry/rmg-sector,15898,0,10202
+1729981620240,21506,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-1,text,true,,181123,1207,83,83,https://www.banglapuzzle.com/contact,15769,0,9922
+1729981469334,112675,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,1319675,7770,83,83,null,70492,59737,12171
+1729981630775,11061,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-79,text,false,,3253,0,82,82,https://www.banglapuzzle.com/industry/rmg-sector,0,0,11061
+1729981620445,21411,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-7,text,true,,187457,1219,82,82,https://www.banglapuzzle.com/industry/rmg-sector,15885,0,9789
+1729981620968,20989,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-92,text,true,,181148,1207,82,82,https://www.banglapuzzle.com/contact,15687,0,9440
+1729981478448,103951,Test,,"Number of samples in transaction : 7, number of failing samples : 3",Thread Group 1-92,,false,,692280,4154,82,82,null,41212,59559,68278
+1729981621051,21123,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-93,text,true,,181167,1207,81,81,https://www.banglapuzzle.com/contact,15919,0,9443
+1729981478547,104094,Test,,"Number of samples in transaction : 7, number of failing samples : 3",Thread Group 1-93,,false,,692325,4154,81,81,null,41560,59534,68181
+1729981620954,21544,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-41,text,true,,187565,1219,80,80,https://www.banglapuzzle.com/industry/healthcare,15984,0,9462
+1729981631499,11035,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-52,text,false,,3253,0,80,80,https://www.banglapuzzle.com/industry/rmg-sector,0,0,11035
+1729981636912,5709,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-50,text,true,,128540,1208,80,80,https://www.banglapuzzle.com/partners,5321,0,0
+1729981632220,10466,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-10,text,false,,3253,0,80,80,https://www.banglapuzzle.com/contact,0,0,10466
+1729981470256,112900,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-10,,false,,1141793,6563,80,80,null,56646,59531,12463
+1729981618522,24380,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-22,text,true,,187517,1219,79,79,https://www.banglapuzzle.com/industry/rmg-sector,12863,0,6003
+1729981637272,5676,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-36,text,true,,128550,1208,79,79,https://www.banglapuzzle.com/partners,5337,0,0
+1729981633014,10088,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-17,text,false,,3253,0,79,79,https://www.banglapuzzle.com/industry/rmg-sector,0,0,10088
+1729981637947,5558,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-35,text,true,,128541,1208,79,79,https://www.banglapuzzle.com/partners,5090,0,0
+1729981621989,21738,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-53,text,true,,187505,1219,79,79,https://www.banglapuzzle.com/industry/rmg-sector,16534,0,10222
+1729981621924,21827,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-76,text,true,,181066,1207,79,79,https://www.banglapuzzle.com/contact,16160,0,10220
+1729981476863,107351,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-76,,false,,1194280,6562,79,79,null,57601,59538,32223
+1729981637864,5956,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-26,text,true,,128647,1208,78,78,https://www.banglapuzzle.com/partners,5294,0,0
+1729981638145,5845,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-34,text,true,,128534,1208,78,78,https://www.banglapuzzle.com/partners,5174,0,0
+1729981621677,22323,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-61,text,true,,187430,1219,78,78,https://www.banglapuzzle.com/industry/healthcare,16998,0,10432
+1729981638478,5740,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-74,text,true,,128536,1208,78,78,https://www.banglapuzzle.com/partners,5331,0,0
+1729981633171,11948,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-72,text,true,,181117,1207,78,78,https://www.banglapuzzle.com/contact,6932,0,0
+1729981476459,109125,Test,,"Number of samples in transaction : 7, number of failing samples : 2",Thread Group 1-72,,false,,951270,5332,78,78,null,49118,59536,51015
+1729981638880,6315,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-40,text,true,,128557,1208,77,77,https://www.banglapuzzle.com/partners,5405,0,0
+1729981639365,6251,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-48,text,true,,128604,1208,77,77,https://www.banglapuzzle.com/partners,5265,0,0
+1729981633480,12139,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-70,text,true,,181178,1207,77,77,https://www.banglapuzzle.com/contact,6890,0,0
+1729981476270,109815,Test,,"Number of samples in transaction : 7, number of failing samples : 2",Thread Group 1-70,,false,,951499,5332,77,77,null,55766,59535,50883
+1729981639785,6158,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-44,text,true,,128590,1208,76,76,https://www.banglapuzzle.com/partners,5223,0,0
+1729981640039,6317,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-49,text,true,,128504,1208,76,76,https://www.banglapuzzle.com/partners,5401,0,0
+1729981640107,6299,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-78,text,true,,181128,1207,76,76,https://www.banglapuzzle.com/contact,5616,0,0
+1729981477056,109819,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-78,,false,,1135896,6551,76,76,null,71031,59532,31491
+1729981635167,11293,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-98,text,false,,3253,0,75,75,https://www.banglapuzzle.com/contact,0,0,11293
+1729981479025,107900,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-98,,false,,1142236,6563,75,75,null,59741,59536,32920
+1729981634838,11898,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-42,text,true,,181130,1207,74,74,https://www.banglapuzzle.com/contact,6468,0,0
+1729981473473,113734,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-42,,true,,1319782,7770,74,74,null,64876,59530,9049
+1729981635824,10982,https://www.banglapuzzle.com/industry/healthcare,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-51,text,false,,3253,0,73,73,https://www.banglapuzzle.com/industry/healthcare,0,0,10981
+1729981635832,10978,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-94,text,false,,3253,0,73,73,https://www.banglapuzzle.com/contact,0,0,10978
+1729981478646,108610,Test,,"Number of samples in transaction : 7, number of failing samples : 4",Thread Group 1-94,,false,,514171,2947,73,73,null,29786,59555,69610
+1729981636894,10139,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-71,text,false,,3253,0,72,72,https://www.banglapuzzle.com/contact,0,0,10139
+1729981476360,111136,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-71,,false,,1141913,6563,72,72,null,60744,59537,26198
+1729981641070,6165,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-25,text,true,,181058,1207,71,71,https://www.banglapuzzle.com/contact,5735,0,0
+1729981471764,115941,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-25,,false,,1135579,6551,71,71,null,50158,59531,22621
+1729981636623,10618,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-54,text,true,,181208,1207,70,70,https://www.banglapuzzle.com/contact,5391,0,0
+1729981474678,113035,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-54,,true,,1319537,7770,70,70,null,63411,59529,7805
+1729981642734,4836,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-97,text,true,,128596,1208,69,69,https://www.banglapuzzle.com/partners,4599,0,0
+1729981638825,8845,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-16,text,true,,181252,1207,69,69,https://www.banglapuzzle.com/contact,5313,0,0
+1729981470890,117248,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-16,,true,,1319921,7770,69,69,null,58006,59533,8970
+1729981639193,9036,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-59,text,true,,181218,1207,68,68,https://www.banglapuzzle.com/contact,5315,0,0
+1729981475167,113531,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-59,,true,,1319699,7770,68,68,null,66828,59532,9525
+1729981639442,9149,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-30,text,true,,181158,1207,67,67,https://www.banglapuzzle.com/contact,5132,0,0
+1729981472273,116791,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-30,,true,,1319794,7770,67,67,null,58064,59528,7987
+1729981643763,5425,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-18,text,true,,128510,1208,66,66,https://www.banglapuzzle.com/partners,4122,0,0
+1729981629260,20405,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-77,text,true,,187509,1219,66,66,https://www.banglapuzzle.com/industry/rmg-sector,16886,0,11444
+1729981640552,9226,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-28,text,true,,187484,1219,66,66,https://www.banglapuzzle.com/industry/rmg-sector,5805,0,0
+1729981641767,8214,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-62,text,false,,3253,0,66,66,https://www.banglapuzzle.com/contact,0,0,8214
+1729981475468,114986,Test,,"Number of samples in transaction : 7, number of failing samples : 3",Thread Group 1-62,,false,,832321,4136,66,66,null,43045,59528,32625
+1729981641789,8215,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-86,text,false,,3253,0,65,65,https://www.banglapuzzle.com/contact,0,0,8215
+1729981477851,112621,Test,,"Number of samples in transaction : 7, number of failing samples : 5",Thread Group 1-86,,false,,330077,1728,65,65,null,28891,59546,79274
+1729981642011,8079,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-80,text,false,,3253,0,64,64,https://www.banglapuzzle.com/contact,0,0,8079
+1729981477261,113299,Test,,"Number of samples in transaction : 7, number of failing samples : 3",Thread Group 1-80,,false,,832728,4136,64,64,null,37148,59531,48523
+1729981642122,8044,https://www.banglapuzzle.com/contact,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-63,text,false,,3253,0,63,63,https://www.banglapuzzle.com/contact,0,0,8044
+1729981475577,115058,Test,,"Number of samples in transaction : 7, number of failing samples : 3",Thread Group 1-63,,false,,832468,4136,63,63,null,36849,59532,32693
+1729981643983,7088,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-43,text,true,,181191,1207,62,62,https://www.banglapuzzle.com/contact,3728,0,0
+1729981473572,117972,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-43,,true,,1319858,7770,62,62,null,57074,59528,8891
+1729981643667,7733,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-38,text,true,,181138,1207,61,61,https://www.banglapuzzle.com/contact,4272,0,0
+1729981473075,118792,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-38,,true,,1319666,7770,61,61,null,57417,59534,10560
+1729981644068,8162,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-81,text,true,,181140,1207,60,60,https://www.banglapuzzle.com/contact,3919,0,0
+1729981477354,115343,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-81,,false,,1135467,6551,60,60,null,57603,59534,28914
+1729981644349,8003,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-46,text,true,,181197,1207,59,59,https://www.banglapuzzle.com/contact,4046,0,0
+1729981473902,118923,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-46,,true,,1319895,7770,59,59,null,55265,59527,9995
+1729981647449,4962,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-13,text,true,,128594,1208,58,58,https://www.banglapuzzle.com/partners,3630,0,0
+1729981644564,8097,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-57,text,true,,181188,1207,58,58,https://www.banglapuzzle.com/contact,4156,0,0
+1729981474992,118138,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-57,,true,,1319811,7770,58,58,null,59655,59531,10768
+1729981647804,4858,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-58,text,true,,128492,1208,58,58,https://www.banglapuzzle.com/partners,3940,0,0
+1729981648017,4717,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-7,text,true,,128530,1208,57,57,https://www.banglapuzzle.com/partners,4047,0,0
+1729981645115,7717,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-24,text,true,,181146,1207,57,57,https://www.banglapuzzle.com/contact,4111,0,0
+1729981471662,121639,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-24,,true,,1319811,7770,57,57,null,49283,59532,9880
+1729981645859,7321,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-47,text,true,,181070,1207,56,56,https://www.banglapuzzle.com/contact,3662,0,0
+1729981473981,119671,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-47,,false,,1135322,6551,56,56,null,66048,59529,24666
+1729981646424,7107,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-99,text,true,,181120,1207,55,55,https://www.banglapuzzle.com/contact,3524,0,0
+1729981479125,114872,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-99,,true,,1319965,7770,55,55,null,63903,59535,24713
+1729981649062,4881,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-22,text,true,,128531,1208,54,54,https://www.banglapuzzle.com/partners,3984,0,0
+1729981647032,7098,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-60,text,true,,181133,1207,54,54,https://www.banglapuzzle.com/contact,3447,0,0
+1729981475267,119332,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-60,,true,,1319752,7770,54,54,null,59224,59532,11621
+1729981637334,17081,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-95,text,true,,181201,1207,53,53,https://www.banglapuzzle.com/contact,13346,0,9917
+1729981478742,116120,Test,,"Number of samples in transaction : 7, number of failing samples : 3",Thread Group 1-95,,false,,692002,4154,53,53,null,44469,59554,68431
+1729981649888,4765,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-53,text,true,,128624,1208,52,52,https://www.banglapuzzle.com/partners,3934,0,0
+1729981639101,16119,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-20,text,true,,181213,1207,52,52,https://www.banglapuzzle.com/contact,12088,0,8477
+1729981471263,124427,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-20,,true,,1319961,7770,52,52,null,67855,59531,16760
+1729981643859,11514,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-56,text,true,,128512,1208,51,51,https://www.banglapuzzle.com/partners,10865,0,6752
+1729981644132,11481,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-75,text,true,,128460,1208,51,51,https://www.banglapuzzle.com/partners,10750,0,6492
+1729981638671,17097,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-100,text,true,,181172,1207,51,51,https://www.banglapuzzle.com/contact,12744,0,8783
+1729981479226,117012,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-100,,true,,1320226,7770,51,51,null,76056,59531,30537
+1729981643883,12886,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-37,text,true,,128518,1208,50,50,https://www.banglapuzzle.com/partners,11533,0,6702
+1729981643967,12825,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-15,text,true,,128495,1208,50,50,https://www.banglapuzzle.com/partners,11474,0,6631
+1729981643842,13113,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-12,text,true,,128533,1208,50,50,https://www.banglapuzzle.com/partners,11790,0,6746
+1729981643906,13064,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-21,text,true,,128538,1208,50,50,https://www.banglapuzzle.com/partners,11745,0,6709
+1729981639450,17525,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-39,text,true,,194683,1208,50,50,https://www.banglapuzzle.com/services,12121,0,8200
+1729981644293,12691,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-29,text,true,,128623,1208,50,50,https://www.banglapuzzle.com/partners,11373,0,6553
+1729981649049,8622,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-69,text,true,,181160,1207,50,50,https://www.banglapuzzle.com/contact,3872,0,0
+1729981476161,121980,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-69,,true,,1319633,7770,50,50,null,61744,59531,19097
+1729981649272,8778,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-96,text,true,,181104,1207,49,49,https://www.banglapuzzle.com/contact,3882,0,0
+1729981478855,119663,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-96,,true,,1319710,7770,49,49,null,78377,59533,28396
+1729981649562,9097,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-14,text,true,,181113,1207,48,48,https://www.banglapuzzle.com/contact,3976,0,0
+1729981470666,128460,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-14,,false,,1135314,6551,48,48,null,53410,59534,23434
+1729981646239,12755,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-8,text,true,,128635,1208,47,47,https://www.banglapuzzle.com/partners,11905,0,6641
+1729981646312,13100,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-5,text,true,,128581,1208,47,47,https://www.banglapuzzle.com/partners,12194,0,6612
+1729981646378,13598,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-55,text,true,,128544,1208,47,47,https://www.banglapuzzle.com/partners,12635,0,6642
+1729981650133,10142,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-67,text,true,,181183,1207,47,47,https://www.banglapuzzle.com/contact,4191,0,0
+1729981475962,124781,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-67,,true,,1320045,7770,47,47,null,60139,59532,18882
+1729981646569,13939,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-33,text,true,,128609,1208,46,46,https://www.banglapuzzle.com/partners,12762,0,6665
+1729981646569,13983,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-73,text,true,,128533,1208,46,46,https://www.banglapuzzle.com/partners,12801,0,6646
+1729981642966,17957,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-65,text,true,,181103,1207,46,46,https://www.banglapuzzle.com/contact,11494,0,7458
+1729981475773,125622,Test,,"Number of samples in transaction : 7, number of failing samples : 2",Thread Group 1-65,,false,,1010444,5343,46,46,null,55621,59529,33469
+1729981647997,14588,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-79,text,true,,128559,1208,45,45,https://www.banglapuzzle.com/partners,13792,0,6929
+1729981655939,7323,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-28,text,true,,128552,1208,45,45,https://www.banglapuzzle.com/partners,6952,0,0
+1729981655826,7469,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-77,text,true,,128590,1208,45,45,https://www.banglapuzzle.com/partners,6956,0,0
+1729981651585,11928,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-50,text,true,,181129,1207,45,45,https://www.banglapuzzle.com/contact,5431,0,0
+1729981474281,129704,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-50,,false,,1180496,6562,45,45,null,58693,59528,19677
+1729981651912,11842,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-36,text,true,,181181,1207,44,44,https://www.banglapuzzle.com/contact,5325,0,0
+1729981472873,131348,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-36,,true,,1319729,7770,44,44,null,62826,59534,9373
+1729981652469,11499,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-35,text,true,,181162,1207,43,43,https://www.banglapuzzle.com/contact,5029,0,0
+1729981472774,131664,Test,,"Number of samples in transaction : 7, number of failing samples : 2",Thread Group 1-35,,false,,944255,5343,43,43,null,50411,59531,33426
+1729981648695,15894,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-52,text,true,,128559,1208,42,42,https://www.banglapuzzle.com/partners,15289,0,8572
+1729981645207,19414,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-89,text,true,,181145,1207,42,42,https://www.banglapuzzle.com/contact,12506,0,7524
+1729981478149,126920,Test,,"Number of samples in transaction : 7, number of failing samples : 4",Thread Group 1-89,,false,,566930,2946,42,42,null,36950,59553,78669
+1729981649263,15644,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-17,text,true,,128557,1208,41,41,https://www.banglapuzzle.com/partners,15157,0,8197
+1729981656534,8395,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-97,text,true,,181151,1207,41,41,https://www.banglapuzzle.com/contact,6966,0,0
+1729981478927,126474,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-97,,true,,1319856,7770,41,41,null,69352,59528,23195
+1729981652784,12187,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-26,text,true,,181179,1207,40,40,https://www.banglapuzzle.com/contact,5285,0,0
+1729981471865,133577,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-26,,true,,1319845,7770,40,40,null,55327,59530,7636
+1729981645765,19351,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-90,text,true,,181176,1207,39,39,https://www.banglapuzzle.com/contact,12516,0,7085
+1729981478247,127340,Test,,"Number of samples in transaction : 7, number of failing samples : 4",Thread Group 1-90,,false,,566997,2946,39,39,null,42861,59530,78349
+1729981652954,12332,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-34,text,true,,181146,1207,38,38,https://www.banglapuzzle.com/contact,5747,0,0
+1729981472672,133085,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-34,,true,,1319807,7770,38,38,null,64647,59530,10573
+1729981653181,12355,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-74,text,true,,181154,1207,37,37,https://www.banglapuzzle.com/contact,6346,0,0
+1729981476658,129349,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-74,,true,,1319982,7770,37,37,null,74358,59530,15188
+1729981647057,18612,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-31,text,true,,181049,1207,36,36,https://www.banglapuzzle.com/contact,12656,0,6526
+1729981472373,133767,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-31,,false,,1194391,6562,36,36,null,63432,59529,20845
+1729981646936,18764,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-66,text,true,,181116,1207,35,35,https://www.banglapuzzle.com/contact,12893,0,6545
+1729981475864,130307,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-66,,false,,1194404,6562,35,35,null,66458,59530,25106
+1729981653440,12463,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-45,text,true,,187436,1219,34,34,https://www.banglapuzzle.com/industry/rmg-sector,6735,0,0
+1729981647485,18428,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-68,text,true,,181202,1207,34,34,https://www.banglapuzzle.com/contact,13045,0,6598
+1729981476062,130317,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-68,,false,,1194772,6562,34,34,null,75331,59535,33284
+1729981654580,11486,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-48,text,true,,181168,1207,33,33,https://www.banglapuzzle.com/contact,6829,0,0
+1729981474081,132456,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-48,,true,,1319828,7770,33,33,null,62446,59530,8487
+1729981654837,11506,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-41,text,true,,187499,1219,32,32,https://www.banglapuzzle.com/industry/rmg-sector,6836,0,0
+1729981654907,11479,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-44,text,true,,181185,1207,32,32,https://www.banglapuzzle.com/contact,6905,0,0
+1729981473683,133172,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-44,,true,,1319841,7770,32,32,null,75087,59532,7322
+1729981655321,11676,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-49,text,true,,181188,1207,31,31,https://www.banglapuzzle.com/contact,7012,0,0
+1729981474200,133265,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-49,,true,,1319933,7770,31,31,null,64812,59533,7505
+1729981656341,10963,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-61,text,true,,187368,1219,30,30,https://www.banglapuzzle.com/industry/rmg-sector,6951,0,0
+1729981649137,18639,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-32,text,true,,187526,1219,30,30,https://www.banglapuzzle.com/industry/rmg-sector,15135,0,8296
+1729981659145,9188,https://www.banglapuzzle.com/industry/rmg-sector,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-51,text,false,,3253,0,30,30,https://www.banglapuzzle.com/industry/rmg-sector,0,0,9188
+1729981658151,10198,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-18,text,true,,181182,1207,30,30,https://www.banglapuzzle.com/contact,6968,0,0
+1729981471064,137757,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-18,,true,,1320084,7770,30,30,null,62838,59529,16809
+1729981654159,14576,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-40,text,true,,181243,1207,29,29,https://www.banglapuzzle.com/contact,6743,0,0
+1729981473273,135935,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-40,,true,,1319909,7770,29,29,null,67538,59527,7319
+1729981661375,7874,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-13,text,true,,181192,1207,28,28,https://www.banglapuzzle.com/contact,4824,0,0
+1729981470565,139155,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-13,,true,,1319848,7770,28,28,null,55377,59530,8748
+1729981661626,8107,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-58,text,true,,181152,1207,27,27,https://www.banglapuzzle.com/contact,4786,0,0
+1729981475070,135133,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-58,,true,,1319891,7770,27,27,null,68960,59530,13086
+1729981661697,8222,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-7,text,true,,181178,1207,26,26,https://www.banglapuzzle.com/contact,4808,0,0
+1729981469953,140438,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-7,,true,,1319822,7770,26,26,null,66090,59529,21825
+1729981662907,7354,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-22,text,true,,181210,1207,25,25,https://www.banglapuzzle.com/contact,4268,0,0
+1729981471458,139275,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-22,,true,,1319928,7770,25,25,null,62293,59529,16912
+1729981663617,6772,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-53,text,true,,181236,1207,24,24,https://www.banglapuzzle.com/contact,3870,0,0
+1729981474579,136282,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-53,,true,,1319915,7770,24,24,null,62356,59528,12128
+1729981664338,6158,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-56,text,true,,181096,1207,23,23,https://www.banglapuzzle.com/contact,3474,0,0
+1729981474875,136089,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-56,,false,,1135408,6551,23,23,null,52225,59533,20761
+1729981664576,6019,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-75,text,true,,181145,1207,22,22,https://www.banglapuzzle.com/contact,3426,0,0
+1729981476759,134310,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-75,,false,,1135466,6551,22,22,null,71052,59527,26904
+1729981665733,5605,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-37,text,true,,181154,1207,21,21,https://www.banglapuzzle.com/contact,3054,0,0
+1729981472974,138833,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-37,,false,,1135737,6551,21,21,null,52657,59531,20796
+1729981665756,5608,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-15,text,true,,181197,1207,20,20,https://www.banglapuzzle.com/contact,3063,0,0
+1729981470768,141067,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-15,,false,,1135892,6551,20,20,null,51660,59530,28511
+1729981665918,5828,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-12,text,true,,181137,1207,19,19,https://www.banglapuzzle.com/contact,3286,0,0
+1729981470460,141762,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-12,,false,,1135696,6551,19,19,null,56403,59525,20743
+1729981665934,5891,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-21,text,true,,181128,1207,18,18,https://www.banglapuzzle.com/contact,3381,0,0
+1729981471362,140937,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-21,,false,,1135637,6551,18,18,null,51284,59527,29183
+1729981665947,6142,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-29,text,true,,181153,1207,17,17,https://www.banglapuzzle.com/contact,3583,0,0
+1729981472173,140391,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-29,,false,,1135598,6551,17,17,null,56410,59526,28667
+1729981667957,4727,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-8,text,true,,181113,1207,16,16,https://www.banglapuzzle.com/contact,2894,0,0
+1729981470054,143102,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-8,,false,,1135489,6551,16,16,null,58320,59529,20806
+1729981668376,4413,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-5,text,true,,181123,1207,15,15,https://www.banglapuzzle.com/contact,2761,0,0
+1729981469751,143507,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-5,,false,,1135636,6551,15,15,null,77848,59532,23323
+1729981668939,3946,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-55,text,true,,181169,1207,14,14,https://www.banglapuzzle.com/contact,2628,0,0
+1729981474777,138582,Test,,"Number of samples in transaction : 7, number of failing samples : 4",Thread Group 1-55,,false,,620689,2916,14,14,null,31348,59527,55902
+1729981669472,3652,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-33,text,true,,181143,1207,13,13,https://www.banglapuzzle.com/contact,2637,0,0
+1729981472574,141021,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-33,,false,,1135715,6551,13,13,null,56118,59530,23791
+1729981669518,3630,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-73,text,true,,181135,1207,12,12,https://www.banglapuzzle.com/contact,2628,0,0
+1729981476559,137060,Test,,"Number of samples in transaction : 7, number of failing samples : 4",Thread Group 1-73,,false,,620754,2916,12,12,null,43159,59530,61669
+1729981671548,2509,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-79,text,true,,181208,1207,11,11,https://www.banglapuzzle.com/contact,1400,0,0
+1729981477155,137375,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-79,,false,,1135850,6551,11,11,null,54572,59527,27844
+1729981672064,2273,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-45,text,true,,128465,1208,10,10,https://www.banglapuzzle.com/partners,1349,0,0
+1729981672258,2181,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-77,text,true,,181172,1207,10,10,https://www.banglapuzzle.com/contact,1139,0,0
+1729981476957,137953,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-77,,true,,1319984,7770,10,10,null,65114,59529,23415
+1729981672503,1980,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-41,text,true,,128539,1208,9,9,https://www.banglapuzzle.com/partners,1431,0,0
+1729981673464,1868,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-61,text,true,,128538,1208,9,9,https://www.banglapuzzle.com/partners,1031,0,0
+1729981672226,3224,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-28,text,true,,181067,1207,9,9,https://www.banglapuzzle.com/contact,2470,0,1587
+1729981472075,143848,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-28,,true,,1319671,7770,9,9,null,60841,59528,14909
+1729981673553,2198,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-52,text,true,,181181,1207,8,8,https://www.banglapuzzle.com/contact,984,0,0
+1729981474479,141749,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-52,,false,,1135422,6551,8,8,null,59120,59523,31176
+1729981673938,2016,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-32,text,true,,128626,1208,7,7,https://www.banglapuzzle.com/partners,1111,0,0
+1729981673870,2152,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-17,text,true,,181085,1207,7,7,https://www.banglapuzzle.com/contact,933,0,0
+1729981470964,145529,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-17,,false,,1135460,6551,7,7,null,51258,59529,21005
+1729981674494,1785,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-51,text,true,,128507,1208,6,6,https://www.banglapuzzle.com/partners,1574,0,930
+1729981677586,790,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-39,text,true,,187505,1219,6,6,https://www.banglapuzzle.com/industry/healthcare,540,0,0
+1729981683447,1128,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-41,text,true,,181136,1207,6,6,https://www.banglapuzzle.com/contact,831,0,140
+1729981473372,151677,Test,,"Number of samples in transaction : 7, number of failing samples : 2",Thread Group 1-41,,false,,989271,5354,6,6,null,38473,59530,33064
+1729981683301,1288,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-45,text,true,,181069,1207,5,5,https://www.banglapuzzle.com/contact,927,0,151
+1729981473783,151283,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-45,,true,,1319618,7770,5,5,null,65671,59524,11238
+1729981684296,757,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-61,text,true,,181047,1207,4,4,https://www.banglapuzzle.com/contact,572,0,134
+1729981475367,150158,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-61,,true,,1319620,7770,4,4,null,77532,59528,17120
+1729981684918,726,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-32,text,true,,181113,1207,3,3,https://www.banglapuzzle.com/contact,509,0,0
+1729981472473,153643,Test,,"Number of samples in transaction : 7, number of failing samples : 3",Thread Group 1-32,,false,,804999,4135,3,3,null,31271,59529,45965
+1729981685242,815,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-51,text,true,,181069,1207,2,2,https://www.banglapuzzle.com/contact,478,0,0
+1729981474379,152152,Test,,"Number of samples in transaction : 7, number of failing samples : 4",Thread Group 1-51,,false,,620465,2916,2,2,null,25707,59526,50332
+1729981690715,925,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-39,text,true,,187504,1219,1,1,https://www.banglapuzzle.com/industry/rmg-sector,582,0,0
+1729981697801,768,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-39,text,true,,128505,1208,1,1,https://www.banglapuzzle.com/partners,560,0,0
+1729981707533,1098,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-39,text,true,,181075,1207,1,1,https://www.banglapuzzle.com/contact,863,0,129
+1729981473173,175932,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-39,,false,,1180576,6562,1,1,null,28885,59527,19849

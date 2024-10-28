@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1729984184266,4146,https://www.banglapuzzle.com/,200,OK,Thread Group 1-4,text,true,,298055,501,24,24,https://www.banglapuzzle.com/,1708,0,144
+1729984183869,5097,https://www.banglapuzzle.com/,200,OK,Thread Group 1-2,text,true,,298189,501,27,27,https://www.banglapuzzle.com/,2105,0,541
+1729984184082,5103,https://www.banglapuzzle.com/,200,OK,Thread Group 1-3,text,true,,298173,501,28,28,https://www.banglapuzzle.com/,1955,0,326
+1729984184468,5239,https://www.banglapuzzle.com/,200,OK,Thread Group 1-5,text,true,,298267,501,31,31,https://www.banglapuzzle.com/,1742,0,113
+1729984183800,7598,https://www.banglapuzzle.com/,200,OK,Thread Group 1-1,text,true,,298219,501,39,39,https://www.banglapuzzle.com/,3388,0,607
+1729984184671,7049,https://www.banglapuzzle.com/,200,OK,Thread Group 1-6,text,true,,298085,501,41,41,https://www.banglapuzzle.com/,2833,0,131
+1729984185070,6746,https://www.banglapuzzle.com/,200,OK,Thread Group 1-8,text,true,,298119,501,41,41,https://www.banglapuzzle.com/,2843,0,116
+1729984184872,7235,https://www.banglapuzzle.com/,200,OK,Thread Group 1-7,text,true,,298149,501,43,43,https://www.banglapuzzle.com/,3272,0,115
+1729984185265,6918,https://www.banglapuzzle.com/,200,OK,Thread Group 1-9,text,true,,298140,501,43,43,https://www.banglapuzzle.com/,3164,0,129
+1729984185464,6796,https://www.banglapuzzle.com/,200,OK,Thread Group 1-10,text,true,,298206,501,43,43,https://www.banglapuzzle.com/,3194,0,115
+1729984185663,6840,https://www.banglapuzzle.com/,200,OK,Thread Group 1-11,text,true,,298075,501,45,45,https://www.banglapuzzle.com/,3287,0,120
+1729984186058,7064,https://www.banglapuzzle.com/,200,OK,Thread Group 1-13,text,true,,298182,501,48,48,https://www.banglapuzzle.com/,5074,0,2337
+1729984185863,7277,https://www.banglapuzzle.com/,200,OK,Thread Group 1-12,text,true,,298199,501,48,48,https://www.banglapuzzle.com/,3570,0,708
+1729984186260,7666,https://www.banglapuzzle.com/,200,OK,Thread Group 1-14,text,true,,298146,501,50,50,https://www.banglapuzzle.com/,5564,0,2987
+1729984186462,8861,https://www.banglapuzzle.com/,200,OK,Thread Group 1-15,text,true,,298121,501,50,50,https://www.banglapuzzle.com/,5804,0,3494
+1729984186669,8674,https://www.banglapuzzle.com/,200,OK,Thread Group 1-16,text,true,,298116,501,50,50,https://www.banglapuzzle.com/,5874,0,3772
+1729984187101,9861,https://www.banglapuzzle.com/,200,OK,Thread Group 1-18,text,true,,298121,501,50,50,https://www.banglapuzzle.com/,6067,0,4034
+1729984187698,12952,https://www.banglapuzzle.com/,200,OK,Thread Group 1-21,text,true,,298246,501,50,50,https://www.banglapuzzle.com/,7028,0,4047
+1729984188701,13872,https://www.banglapuzzle.com/,200,OK,Thread Group 1-26,text,true,,298283,501,50,50,https://www.banglapuzzle.com/,7383,0,3562
+1729984186897,15835,https://www.banglapuzzle.com/,200,OK,Thread Group 1-17,text,true,,298203,501,50,50,https://www.banglapuzzle.com/,6545,0,4233
+1729984189096,14444,https://www.banglapuzzle.com/,200,OK,Thread Group 1-28,text,true,,298170,501,50,50,https://www.banglapuzzle.com/,7762,0,3707
+1729984187497,16455,https://www.banglapuzzle.com/,200,OK,Thread Group 1-20,text,true,,298136,501,50,50,https://www.banglapuzzle.com/,6445,0,4183
+1729984187295,17090,https://www.banglapuzzle.com/,200,OK,Thread Group 1-19,text,true,,298278,501,50,50,https://www.banglapuzzle.com/,6705,0,4135
+1729984189295,15110,https://www.banglapuzzle.com/,200,OK,Thread Group 1-29,text,true,,298155,501,50,50,https://www.banglapuzzle.com/,8041,0,3659
+1729984189493,15073,https://www.banglapuzzle.com/,200,OK,Thread Group 1-30,text,true,,298178,501,50,50,https://www.banglapuzzle.com/,7781,0,3665
+1729984190096,16805,https://www.banglapuzzle.com/,200,OK,Thread Group 1-33,text,true,,297990,501,50,50,https://www.banglapuzzle.com/,8146,0,3177
+1729984194322,12774,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-4,text,true,,142564,1208,50,50,https://www.banglapuzzle.com/products,4750,0,0
+1729984188298,19907,https://www.banglapuzzle.com/,200,OK,Thread Group 1-24,text,true,,298086,501,50,50,https://www.banglapuzzle.com/,6865,0,3821
+1729984194867,13366,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-2,text,true,,142610,1208,50,50,https://www.banglapuzzle.com/products,5413,0,0
+1729984199825,8749,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-14,text,true,,142560,1208,50,50,https://www.banglapuzzle.com/products,8441,0,0
+1729984188098,20519,https://www.banglapuzzle.com/,200,OK,Thread Group 1-23,text,true,,298197,501,50,50,https://www.banglapuzzle.com/,7404,0,3869
+1729984195083,13555,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-3,text,true,,142563,1208,50,50,https://www.banglapuzzle.com/products,5695,0,0
+1729984188497,20213,https://www.banglapuzzle.com/,200,OK,Thread Group 1-25,text,true,,298096,501,50,50,https://www.banglapuzzle.com/,7251,0,3698
+1729984195604,13422,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-5,text,true,,142601,1208,50,50,https://www.banglapuzzle.com/products,5988,0,0
+1729984188897,21007,https://www.banglapuzzle.com/,200,OK,Thread Group 1-27,text,true,,298204,501,50,50,https://www.banglapuzzle.com/,7376,0,3511
+1729984201240,8669,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-16,text,true,,142592,1208,50,50,https://www.banglapuzzle.com/products,8053,0,0
+1729984201221,8727,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-15,text,true,,142601,1208,50,50,https://www.banglapuzzle.com/products,8083,0,0
+1729984202863,8626,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-18,text,true,,142577,1208,50,50,https://www.banglapuzzle.com/products,8079,0,0
+1729984197295,14239,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-1,text,true,,142503,1208,50,50,https://www.banglapuzzle.com/products,6890,0,0
+1729984197618,14142,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-6,text,true,,142595,1208,50,50,https://www.banglapuzzle.com/products,7298,0,0
+1729984197713,14118,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-8,text,true,,142564,1208,50,50,https://www.banglapuzzle.com/products,7382,0,0
+1729984192085,19988,https://www.banglapuzzle.com/,200,OK,Thread Group 1-43,text,true,,298199,501,50,50,https://www.banglapuzzle.com/,12325,0,5017
+1729984198006,14129,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-7,text,true,,142520,1208,50,50,https://www.banglapuzzle.com/products,7810,0,0
+1729984198158,14092,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-10,text,true,,142599,1208,50,50,https://www.banglapuzzle.com/products,7939,0,0
+1729984192283,19987,https://www.banglapuzzle.com/,200,OK,Thread Group 1-44,text,true,,298184,501,50,50,https://www.banglapuzzle.com/,12559,0,5235
+1729984206558,6192,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-21,text,true,,142512,1208,50,50,https://www.banglapuzzle.com/products,5896,0,0
+1729984208472,5284,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-26,text,true,,142603,1208,50,50,https://www.banglapuzzle.com/products,4781,0,0
+1729984208630,5386,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-17,text,true,,142599,1208,50,50,https://www.banglapuzzle.com/products,4826,0,0
+1729984192882,21187,https://www.banglapuzzle.com/,200,OK,Thread Group 1-47,text,true,,298176,501,50,50,https://www.banglapuzzle.com/,15833,0,7533
+1729984193082,21128,https://www.banglapuzzle.com/,200,OK,Thread Group 1-48,text,true,,298216,501,50,50,https://www.banglapuzzle.com/,16029,0,8089
+1729984209440,5240,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-28,text,true,,142486,1208,50,50,https://www.banglapuzzle.com/products,4816,0,0
+1729984209850,5028,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-20,text,true,,142596,1208,50,50,https://www.banglapuzzle.com/products,4548,0,0
+1729984210466,5351,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-30,text,true,,142629,1208,50,50,https://www.banglapuzzle.com/products,4608,0,0
+1729984193279,22566,https://www.banglapuzzle.com/,200,OK,Thread Group 1-49,text,true,,298180,501,50,50,https://www.banglapuzzle.com/,17090,0,8620
+1729984210283,5579,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-19,text,true,,142483,1208,50,50,https://www.banglapuzzle.com/products,4798,0,0
+1729984210307,5683,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-29,text,true,,142528,1208,50,50,https://www.banglapuzzle.com/products,4957,0,0
+1729984189694,26468,https://www.banglapuzzle.com/,200,OK,Thread Group 1-31,text,true,,298148,501,50,50,https://www.banglapuzzle.com/,8216,0,3466
+1729984193480,22730,https://www.banglapuzzle.com/,200,OK,Thread Group 1-50,text,true,,297968,501,50,50,https://www.banglapuzzle.com/,17538,0,9172
+1729984198082,18164,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-9,text,true,,142525,1208,50,50,https://www.banglapuzzle.com/products,8161,0,0
+1729984198401,17909,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-11,text,true,,142546,1208,50,50,https://www.banglapuzzle.com/products,8250,0,0
+1729984189897,26438,https://www.banglapuzzle.com/,200,OK,Thread Group 1-32,text,true,,298221,501,50,50,https://www.banglapuzzle.com/,8299,0,3291
+1729984190693,25743,https://www.banglapuzzle.com/,200,OK,Thread Group 1-36,text,true,,298117,501,50,50,https://www.banglapuzzle.com/,8087,0,3260
+1729984187898,28676,https://www.banglapuzzle.com/,200,OK,Thread Group 1-22,text,true,,298045,501,50,50,https://www.banglapuzzle.com/,6876,0,3859
+1729984199022,17571,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-13,text,true,,142573,1208,50,50,https://www.banglapuzzle.com/products,8532,0,0
+1729984190493,26265,https://www.banglapuzzle.com/,200,OK,Thread Group 1-35,text,true,,298142,501,50,50,https://www.banglapuzzle.com/,8878,0,3448
+1729984190895,25910,https://www.banglapuzzle.com/,200,OK,Thread Group 1-37,text,true,,298145,501,50,50,https://www.banglapuzzle.com/,9089,0,3479
+1729984191093,26200,https://www.banglapuzzle.com/,200,OK,Thread Group 1-38,text,true,,298126,501,50,50,https://www.banglapuzzle.com/,10338,0,3993
+1729984212801,4636,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-33,text,true,,142615,1208,50,50,https://www.banglapuzzle.com/products,4269,0,0
+1729984191296,26247,https://www.banglapuzzle.com/,200,OK,Thread Group 1-39,text,true,,298174,501,50,50,https://www.banglapuzzle.com/,10891,0,4256
+1729984191689,26495,https://www.banglapuzzle.com/,200,OK,Thread Group 1-41,text,true,,298188,501,50,50,https://www.banglapuzzle.com/,11050,0,4295
+1729984191493,26839,https://www.banglapuzzle.com/,200,OK,Thread Group 1-40,text,true,,298168,501,50,50,https://www.banglapuzzle.com/,11270,0,4478
+1729984214129,4272,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-14,text,true,,194777,1208,50,50,https://www.banglapuzzle.com/services,3663,0,0
+1729984214104,4596,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-24,text,true,,142609,1208,50,50,https://www.banglapuzzle.com/products,3964,0,0
+1729984214608,4887,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-25,text,true,,142550,1208,50,50,https://www.banglapuzzle.com/products,4247,0,0
+1729984214515,5015,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-23,text,true,,142439,1208,50,50,https://www.banglapuzzle.com/products,4388,0,0
+1729984191886,27728,https://www.banglapuzzle.com/,200,OK,Thread Group 1-42,text,true,,298238,501,50,50,https://www.banglapuzzle.com/,11714,0,4651
+1729984215464,4764,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-16,text,true,,194627,1208,50,50,https://www.banglapuzzle.com/services,4206,0,0
+1729984215504,4935,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-15,text,true,,194602,1208,50,50,https://www.banglapuzzle.com/services,4298,0,0
+1729984199039,21418,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-12,text,true,,142599,1208,50,50,https://www.banglapuzzle.com/products,13759,0,0
+1729984190296,30261,https://www.banglapuzzle.com/,200,OK,Thread Group 1-34,text,true,,298058,501,50,50,https://www.banglapuzzle.com/,8937,0,3568
+1729984215804,5328,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-27,text,true,,142602,1208,50,50,https://www.banglapuzzle.com/products,4778,0,0
+1729984212650,8486,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-4,text,true,,194634,1208,50,50,https://www.banglapuzzle.com/services,4218,0,0
+1729984213788,7875,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-2,text,true,,194612,1208,50,50,https://www.banglapuzzle.com/services,3793,0,0
+1729984217045,5440,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-18,text,true,,194684,1208,50,50,https://www.banglapuzzle.com/services,4651,0,0
+1729984214194,8626,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-3,text,true,,194634,1208,50,50,https://www.banglapuzzle.com/services,4245,0,0
+1729984214582,9147,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-5,text,true,,194578,1208,50,50,https://www.banglapuzzle.com/services,4432,0,0
+1729984217971,5950,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-43,text,true,,142611,1208,50,50,https://www.banglapuzzle.com/products,5055,0,0
+1729984218304,5689,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-21,text,true,,194689,1208,50,50,https://www.banglapuzzle.com/services,4940,0,0
+1729984218169,5898,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-44,text,true,,142615,1208,50,50,https://www.banglapuzzle.com/products,5133,0,0
+1729984219311,5299,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-26,text,true,,194682,1208,50,50,https://www.banglapuzzle.com/services,4838,0,0
+1729984219571,5333,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-17,text,true,,194741,1208,50,50,https://www.banglapuzzle.com/services,4788,0,0
+1729984220235,5746,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-28,text,true,,194620,1208,50,50,https://www.banglapuzzle.com/services,4920,0,0
+1729984220433,5863,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-20,text,true,,194706,1208,50,50,https://www.banglapuzzle.com/services,4984,0,0
+1729984192484,34012,https://www.banglapuzzle.com/,200,OK,Thread Group 1-45,text,true,,298104,501,50,50,https://www.banglapuzzle.com/,14694,0,6153
+1729984217091,9448,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-1,text,true,,194689,1208,50,50,https://www.banglapuzzle.com/services,4359,0,0
+1729984220109,6483,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-48,text,true,,142532,1208,50,50,https://www.banglapuzzle.com/products,4917,0,0
+1729984192684,33916,https://www.banglapuzzle.com/,200,OK,Thread Group 1-46,text,true,,298116,501,50,50,https://www.banglapuzzle.com/,15054,0,6174
+1729984219967,6686,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-47,text,true,,142560,1208,50,50,https://www.banglapuzzle.com/products,5252,0,0
+1729984217315,9466,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-6,text,true,,194621,1208,50,50,https://www.banglapuzzle.com/services,4499,0,0
+1729984221371,6224,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-30,text,true,,194674,1208,50,50,https://www.banglapuzzle.com/services,5421,0,0
+1729984221418,6274,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-19,text,true,,194688,1208,50,50,https://www.banglapuzzle.com/services,5438,0,0
+1729984217385,10360,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-8,text,true,,194617,1208,50,50,https://www.banglapuzzle.com/services,4967,0,0
+1729984221545,6589,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-29,text,true,,194781,1208,50,50,https://www.banglapuzzle.com/services,5578,0,0
+1729984217690,10519,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-7,text,true,,194624,1208,50,50,https://www.banglapuzzle.com/services,5001,0,0
+1729984217804,10624,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-10,text,true,,194694,1208,50,50,https://www.banglapuzzle.com/services,5048,0,0
+1729984222062,7148,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-31,text,true,,142598,1208,50,50,https://www.banglapuzzle.com/products,6610,0,0
+1729984221743,7551,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-49,text,true,,142545,1208,50,50,https://www.banglapuzzle.com/products,6307,0,0
+1729984222333,7337,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-36,text,true,,142495,1208,50,50,https://www.banglapuzzle.com/products,6591,0,0
+1729984222148,7867,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-13,text,true,,194739,1208,50,50,https://www.banglapuzzle.com/services,7110,0,0
+1729984222233,7927,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-32,text,true,,142545,1208,50,50,https://www.banglapuzzle.com/products,7133,0,0
+1729984222473,8483,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-22,text,true,,142581,1208,50,50,https://www.banglapuzzle.com/products,7407,0,0
+1729984222108,8902,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-50,text,true,,142490,1208,50,50,https://www.banglapuzzle.com/products,6797,0,0
+1729984222992,8340,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-33,text,true,,194660,1208,50,50,https://www.banglapuzzle.com/services,7238,0,0
+1729984222704,8737,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-37,text,true,,142495,1208,50,50,https://www.banglapuzzle.com/products,7761,0,0
+1729984223192,8262,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-38,text,true,,142575,1208,50,50,https://www.banglapuzzle.com/products,7165,0,0
+1729984223442,8208,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-39,text,true,,142556,1208,50,50,https://www.banglapuzzle.com/products,7738,0,0
+1729984224255,8074,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-24,text,true,,194713,1208,50,50,https://www.banglapuzzle.com/services,7406,0,0
+1729984224082,8335,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-41,text,true,,142559,1208,50,50,https://www.banglapuzzle.com/products,7719,0,0
+1729984224230,8288,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-40,text,true,,142527,1208,50,50,https://www.banglapuzzle.com/products,7763,0,0
+1729984225050,8066,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-25,text,true,,194700,1208,50,50,https://www.banglapuzzle.com/services,7505,0,0
+1729984225084,8106,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-23,text,true,,194650,1208,50,50,https://www.banglapuzzle.com/services,7559,0,0
+1729984225512,7948,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-42,text,true,,142608,1208,50,50,https://www.banglapuzzle.com/products,7697,0,0
+1729984226688,7611,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-27,text,true,,194620,1208,50,50,https://www.banglapuzzle.com/services,7177,0,0
+1729984221801,12628,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-9,text,true,,194607,1208,50,50,https://www.banglapuzzle.com/services,6089,0,0
+1729984221864,12694,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-11,text,true,,194619,1208,50,50,https://www.banglapuzzle.com/services,6620,0,0
+1729984222658,12036,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-35,text,true,,142580,1208,50,50,https://www.banglapuzzle.com/products,7465,0,0
+1729984229475,5738,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-43,text,true,,194727,1208,50,50,https://www.banglapuzzle.com/services,5197,0,0
+1729984229622,5679,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-44,text,true,,194711,1208,50,50,https://www.banglapuzzle.com/services,5162,0,0
+1729984226012,10124,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-12,text,true,,194633,1208,50,50,https://www.banglapuzzle.com/services,7492,0,0
+1729984226455,9860,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-34,text,true,,142549,1208,50,50,https://www.banglapuzzle.com/products,7295,0,0
+1729984232394,4193,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-45,text,true,,142567,1208,50,50,https://www.banglapuzzle.com/products,3201,0,0
+1729984232147,4491,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-48,text,true,,194675,1208,50,50,https://www.banglapuzzle.com/services,3312,0,0
+1729984232207,4487,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-47,text,true,,194692,1208,50,50,https://www.banglapuzzle.com/services,3290,0,0
+1729984232500,4233,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-46,text,true,,142581,1208,50,50,https://www.banglapuzzle.com/products,3368,0,0
+1729984234764,2629,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-31,text,true,,194608,1208,50,50,https://www.banglapuzzle.com/services,2151,0,0
+1729984235224,2579,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-36,text,true,,194680,1208,50,50,https://www.banglapuzzle.com/services,2162,0,0
+1729984235715,2541,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-32,text,true,,194677,1208,50,50,https://www.banglapuzzle.com/services,2137,0,0
+1729984234849,3466,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-49,text,true,,194698,1208,50,50,https://www.banglapuzzle.com/services,2232,0,0
+1729984236512,2340,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-22,text,true,,194596,1208,50,50,https://www.banglapuzzle.com/services,1918,0,0
+1729984237008,2805,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-38,text,true,,194709,1208,50,50,https://www.banglapuzzle.com/services,1892,0,0
+1729984236995,2838,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-37,text,true,,194606,1208,50,50,https://www.banglapuzzle.com/services,1922,0,0
+1729984237205,2881,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-39,text,true,,194621,1208,50,50,https://www.banglapuzzle.com/services,2028,0,0
+1729984236565,3652,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-50,text,true,,194574,1208,50,50,https://www.banglapuzzle.com/services,2031,0,0
+1729984237972,2837,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-41,text,true,,194611,1208,50,50,https://www.banglapuzzle.com/services,2282,0,0
+1729984238074,2809,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-40,text,true,,194645,1208,50,50,https://www.banglapuzzle.com/services,2289,0,0
+1729984239012,2537,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-14,text,true,,187524,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,2084,0,0
+1729984239015,2563,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-42,text,true,,194667,1208,50,50,https://www.banglapuzzle.com/services,1901,0,0
+1729984240248,1749,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-35,text,true,,194663,1208,50,50,https://www.banglapuzzle.com/services,1394,0,0
+1729984240839,1426,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-16,text,true,,187571,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1112,0,0
+1729984241052,1534,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-15,text,true,,187534,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1247,0,0
+1729984241869,1367,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-34,text,true,,194670,1208,50,50,https://www.banglapuzzle.com/services,772,0,0
+1729984241748,1574,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-4,text,true,,187447,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1023,0,0
+1729984242274,1644,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-2,text,true,,187525,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1087,0,0
+1729984242140,2075,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-45,text,true,,194651,1208,50,50,https://www.banglapuzzle.com/services,1125,0,0
+1729984242287,2085,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-46,text,true,,194644,1208,50,50,https://www.banglapuzzle.com/services,1214,0,0
+1729984243097,1650,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-18,text,true,,187473,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1176,0,0
+1729984243431,1483,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-3,text,true,,187416,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1150,0,0
+1729984244341,1100,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-5,text,true,,187528,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,844,0,0
+1729984244605,1070,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-21,text,true,,187543,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,808,0,0
+1729984245222,1073,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-26,text,true,,187623,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,810,0,0
+1729984245516,1033,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-17,text,true,,187516,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,779,0,0
+1729984246592,1146,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-28,text,true,,187537,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,882,0,0
+1729984247151,1288,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-1,text,true,,187456,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,961,0,120
+1729984247392,1230,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-6,text,true,,187515,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,902,0,104
+1729984246910,1818,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-20,text,true,,187478,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,844,0,0
+1729984248207,850,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-30,text,true,,187505,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,596,0,0
+1729984248355,1723,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-8,text,true,,187555,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,962,0,144
+1729984248822,1695,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-7,text,true,,187567,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1033,0,109
+1729984248303,2227,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-19,text,true,,187491,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,994,0,196
+1729984248746,1961,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-29,text,true,,187575,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1354,0,0
+1729984249041,1764,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-10,text,true,,187553,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1169,0,101
+1729984250631,1447,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-13,text,true,,187465,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1122,0,232
+1729984251942,1262,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-33,text,true,,187585,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,937,0,106
+1729984252940,1189,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-24,text,true,,187537,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,757,0,101
+1729984253889,1258,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-14,text,true,,187420,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,724,0,106
+1729984253801,1410,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-23,text,true,,187534,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,948,0,104
+1729984253728,1649,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-25,text,true,,187455,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1012,0,104
+1729984254605,1204,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-16,text,true,,187483,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,947,0,107
+1729984254927,2168,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-15,text,true,,187450,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,1506,0,456
+1729984254912,2359,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-27,text,true,,187414,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1557,0,471
+1729984255040,2546,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-9,text,true,,187479,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1518,0,404
+1729984255169,2653,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-11,text,true,,187560,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1467,0,276
+1729984255826,2251,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-43,text,true,,187569,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,963,0,102
+1729984255662,2906,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-4,text,true,,187422,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,1756,0,106
+1729984255914,2792,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-44,text,true,,187517,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,1844,0,111
+1729984256257,2703,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-2,text,true,,187477,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,1988,0,104
+1729984256747,2784,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-12,text,true,,187530,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,2509,0,1649
+1729984257254,3374,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-3,text,true,,187378,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,3089,0,1720
+1729984258414,2700,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-36,text,true,,187491,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,2211,0,646
+1729984258004,3372,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-31,text,true,,187417,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,2728,0,1036
+1729984257086,4435,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-18,text,true,,187415,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,3661,0,1788
+1729984258014,4785,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-21,text,true,,187525,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,3380,0,1026
+1729984257305,5871,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-47,text,true,,187477,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,4295,0,1670
+1729984258889,4740,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-17,text,true,,187322,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,2937,0,212
+1729984258927,4831,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-49,text,true,,187520,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,3043,0,178
+1729984257781,6436,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-5,text,true,,187392,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,4334,0,1257
+1729984258867,6538,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-32,text,true,,187481,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,3529,0,235
+1729984257249,8390,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-48,text,true,,187401,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,5166,0,1725
+1729984261310,4520,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-14,text,true,,128554,1208,50,50,https://www.banglapuzzle.com/partners,3590,0,0
+1729984258635,7729,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-26,text,true,,187353,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,4184,0,461
+1729984259462,7342,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-22,text,true,,187432,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,3862,0,106
+1729984260078,7652,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-28,text,true,,187323,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,3759,0,99
+1729984263257,4746,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-15,text,true,,128560,1208,50,50,https://www.banglapuzzle.com/partners,4252,0,0
+1729984260444,7730,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-37,text,true,,187422,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,3782,0,94
+1729984260424,7852,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-38,text,true,,187345,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,3948,0,95
+1729984260697,7837,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-39,text,true,,187512,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,4044,0,247
+1729984260829,8326,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-50,text,true,,187528,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,4172,0,376
+1729984264417,5044,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-13,text,true,,187363,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,4335,0,0
+1729984261972,7555,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-16,text,true,,128526,1208,50,50,https://www.banglapuzzle.com/partners,3448,0,0
+1729984264730,5031,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-4,text,true,,128572,1208,50,50,https://www.banglapuzzle.com/partners,4438,0,0
+1729984265123,5149,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-2,text,true,,128469,1208,50,50,https://www.banglapuzzle.com/partners,4744,0,0
+1729984265544,5192,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-33,text,true,,187478,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,4875,0,0
+1729984261069,9989,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-20,text,true,,187396,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,6031,0,1763
+1729984266792,4463,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-3,text,true,,128468,1208,50,50,https://www.banglapuzzle.com/partners,4239,0,0
+1729984260779,11100,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-1,text,true,,187389,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,3264,0,0
+1729984267682,4418,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-18,text,true,,128552,1208,50,50,https://www.banglapuzzle.com/partners,3729,0,0
+1729984261397,11459,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-30,text,true,,187418,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,7143,0,2606
+1729984261418,11882,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-41,text,true,,187493,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,7527,0,2777
+1729984268962,4464,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-21,text,true,,128500,1208,50,50,https://www.banglapuzzle.com/partners,4190,0,0
+1729984261495,12034,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-40,text,true,,187582,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,8465,0,3815
+1729984269791,4412,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-17,text,true,,128496,1208,50,50,https://www.banglapuzzle.com/partners,3905,0,0
+1729984262418,11798,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-8,text,true,,187526,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,3788,0,0
+1729984262859,11617,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-7,text,true,,187507,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,3667,0,0
+1729984262870,12324,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-19,text,true,,187394,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,3943,0,0
+1729984263145,12138,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-10,text,true,,187518,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,4003,0,0
+1729984270379,5079,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-5,text,true,,128472,1208,50,50,https://www.banglapuzzle.com/partners,4421,0,0
+1729984262189,14172,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-42,text,true,,187436,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,10120,0,5893
+1729984260962,15486,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-6,text,true,,187454,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,4072,0,0
+1729984271872,4754,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-12,text,true,,187335,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,4354,0,0
+1729984272526,4752,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-26,text,true,,128544,1208,50,50,https://www.banglapuzzle.com/partners,4401,0,0
+1729984269926,7471,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-9,text,true,,187306,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,3953,0,0
+1729984273454,4369,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-36,text,true,,187495,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,3954,0,0
+1729984262607,15440,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-35,text,true,,187518,1219,50,50,https://www.banglapuzzle.com/industry/healthcare,11640,0,7177
+1729984273714,4523,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-31,text,true,,187441,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,3918,0,0
+1729984270162,8210,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-11,text,true,,187371,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,4405,0,0
+1729984273892,4535,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-28,text,true,,128571,1208,50,50,https://www.banglapuzzle.com/partners,4049,0,0
+1729984270417,8244,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-43,text,true,,187352,1219,50,50,https://www.banglapuzzle.com/industry/rmg-sector,4476,0,0
+1729984274795,4208,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-14,text,true,,181131,1207,50,50,https://www.banglapuzzle.com/contact,3898,0,0
+1729984186257,33210,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-14,,true,,1320112,7770,50,50,null,27964,59538,3093
+1729984263048,16085,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-29,text,true,,187481,1219,49,49,https://www.banglapuzzle.com/industry/rmg-sector,12417,0,7526
+1729984271046,8114,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-44,text,true,,187450,1219,49,49,https://www.banglapuzzle.com/industry/rmg-sector,4571,0,0
+1729984263847,15413,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-34,text,true,,187505,1219,49,49,https://www.banglapuzzle.com/industry/healthcare,11984,0,7432
+1729984267551,11804,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-23,text,true,,187385,1219,49,49,https://www.banglapuzzle.com/industry/rmg-sector,3897,0,0
+1729984267717,11846,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-25,text,true,,187507,1219,49,49,https://www.banglapuzzle.com/industry/rmg-sector,3929,0,0
+1729984275622,4228,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-13,text,true,,128533,1208,49,49,https://www.banglapuzzle.com/partners,3972,0,0
+1729984264826,15302,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-45,text,true,,187430,1219,49,49,https://www.banglapuzzle.com/industry/healthcare,11805,0,7389
+1729984264982,15281,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-46,text,true,,187514,1219,49,49,https://www.banglapuzzle.com/industry/healthcare,11797,0,7523
+1729984269611,10737,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-27,text,true,,187458,1219,49,49,https://www.banglapuzzle.com/industry/rmg-sector,3937,0,0
+1729984276897,3810,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-33,text,true,,128424,1208,49,49,https://www.banglapuzzle.com/partners,3482,0,0
+1729984277221,3780,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-20,text,true,,128516,1208,49,49,https://www.banglapuzzle.com/partners,3495,0,0
+1729984266469,14549,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-24,text,true,,187425,1219,49,49,https://www.banglapuzzle.com/industry/rmg-sector,4328,0,0
+1729984278042,3621,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-1,text,true,,128575,1208,49,49,https://www.banglapuzzle.com/partners,3204,0,0
+1729984275516,6532,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-47,text,true,,187459,1219,49,49,https://www.banglapuzzle.com/industry/rmg-sector,3788,0,0
+1729984279019,3534,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-30,text,true,,128572,1208,49,49,https://www.banglapuzzle.com/partners,3039,0,0
+1729984276098,6688,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-49,text,true,,187469,1219,49,49,https://www.banglapuzzle.com/industry/rmg-sector,3784,0,0
+1729984276969,6049,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-15,text,true,,181046,1207,49,49,https://www.banglapuzzle.com/contact,3505,0,0
+1729984186459,37020,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-15,,true,,1319914,7770,49,49,null,28695,59542,3950
+1729984280221,3098,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-3,text,true,,181145,1207,48,48,https://www.banglapuzzle.com/contact,2830,0,0
+1729984184080,39702,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-3,,true,,1319777,7770,48,48,null,23203,59540,2046
+1729984277744,5670,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-32,text,true,,187490,1219,47,47,https://www.banglapuzzle.com/industry/rmg-sector,3286,0,0
+1729984277978,5624,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-48,text,true,,187475,1219,47,47,https://www.banglapuzzle.com/industry/rmg-sector,3195,0,0
+1729984280380,3626,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-8,text,true,,128508,1208,47,47,https://www.banglapuzzle.com/partners,3122,0,0
+1729984278491,6121,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-16,text,true,,181106,1207,47,47,https://www.banglapuzzle.com/contact,3217,0,0
+1729984186666,38413,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-16,,true,,1320021,7770,47,47,null,26857,59534,3879
+1729984280638,4104,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-7,text,true,,128477,1208,46,46,https://www.banglapuzzle.com/partners,3398,0,0
+1729984278724,6192,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-4,text,true,,181098,1207,46,46,https://www.banglapuzzle.com/contact,3126,0,0
+1729984184264,41109,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-4,,true,,1319792,7770,46,46,null,21019,59545,250
+1729984281065,4073,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-18,text,true,,181192,1207,45,45,https://www.banglapuzzle.com/contact,3211,0,0
+1729984187098,38503,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-18,,true,,1320014,7770,45,45,null,30574,59537,5822
+1729984281357,3899,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-19,text,true,,128573,1208,44,44,https://www.banglapuzzle.com/partners,3469,0,0
+1729984279238,6336,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-2,text,true,,181180,1207,44,44,https://www.banglapuzzle.com/contact,3090,0,0
+1729984183865,42170,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-2,,true,,1320062,7770,44,44,null,22220,59540,645
+1729984281446,4247,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-10,text,true,,128513,1208,43,43,https://www.banglapuzzle.com/partners,3840,0,0
+1729984279145,6715,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-22,text,true,,187465,1219,43,43,https://www.banglapuzzle.com/industry/rmg-sector,3472,0,0
+1729984282391,3862,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-21,text,true,,181048,1207,43,43,https://www.banglapuzzle.com/contact,3501,0,0
+1729984187695,39014,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-21,,true,,1320063,7770,43,43,null,29743,59544,5073
+1729984282611,3854,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-6,text,true,,128555,1208,42,42,https://www.banglapuzzle.com/partners,3424,0,0
+1729984282789,3795,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-12,text,true,,128557,1208,42,42,https://www.banglapuzzle.com/partners,3494,0,0
+1729984280618,6063,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-38,text,true,,187434,1219,42,42,https://www.banglapuzzle.com/industry/rmg-sector,2993,0,0
+1729984280516,6401,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-37,text,true,,187446,1219,42,42,https://www.banglapuzzle.com/industry/rmg-sector,3238,0,0
+1729984283559,3641,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-9,text,true,,128514,1208,42,42,https://www.banglapuzzle.com/partners,3458,0,0
+1729984280875,6510,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-39,text,true,,187414,1219,42,42,https://www.banglapuzzle.com/industry/rmg-sector,3535,0,0
+1729984283985,3519,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-36,text,true,,128592,1208,42,42,https://www.banglapuzzle.com/partners,3311,0,0
+1729984284400,3569,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-31,text,true,,128549,1208,42,42,https://www.banglapuzzle.com/partners,3135,0,0
+1729984284422,3687,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-5,text,true,,181213,1207,42,42,https://www.banglapuzzle.com/contact,3207,0,0
+1729984184467,44110,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-5,,true,,1320051,7770,42,42,null,24968,59533,1370
+1729984284534,3696,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-11,text,true,,128589,1208,41,41,https://www.banglapuzzle.com/partners,3239,0,0
+1729984281496,6920,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-50,text,true,,187504,1219,41,41,https://www.banglapuzzle.com/industry/rmg-sector,3864,0,0
+1729984284824,3711,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-43,text,true,,128558,1208,41,41,https://www.banglapuzzle.com/partners,3435,0,0
+1729984285322,3547,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-44,text,true,,128584,1208,41,41,https://www.banglapuzzle.com/partners,3267,0,0
+1729984285295,3758,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-29,text,true,,128579,1208,41,41,https://www.banglapuzzle.com/partners,3249,0,0
+1729984285516,3658,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-23,text,true,,128615,1208,41,41,https://www.banglapuzzle.com/partners,3474,0,0
+1729984283169,6469,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-17,text,true,,181118,1207,41,41,https://www.banglapuzzle.com/contact,3538,0,0
+1729984186894,43208,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-17,,true,,1319995,7770,41,41,null,27318,59536,4445
+1729984285725,4237,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-25,text,true,,128553,1208,40,40,https://www.banglapuzzle.com/partners,3541,0,0
+1729984286244,3961,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-26,text,true,,181208,1207,40,40,https://www.banglapuzzle.com/contact,3423,0,0
+1729984188697,41970,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-26,,true,,1320296,7770,40,40,null,29820,59542,4023
+1729984286509,3906,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-27,text,true,,128540,1208,39,39,https://www.banglapuzzle.com/partners,3725,0,0
+1729984287180,3596,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-24,text,true,,128614,1208,39,39,https://www.banglapuzzle.com/partners,3268,0,0
+1729984288209,2850,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-47,text,true,,128558,1208,39,39,https://www.banglapuzzle.com/partners,2669,0,0
+1729984285868,5285,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-40,text,true,,187379,1219,39,39,https://www.banglapuzzle.com/industry/rmg-sector,3314,0,0
+1729984285640,5846,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-41,text,true,,187418,1219,39,39,https://www.banglapuzzle.com/industry/rmg-sector,3776,0,0
+1729984288816,2884,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-13,text,true,,181165,1207,39,39,https://www.banglapuzzle.com/contact,2368,0,0
+1729984186056,46105,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-13,,true,,1320020,7770,39,39,null,32513,59542,2569
+1729984288949,2903,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-49,text,true,,128650,1208,38,38,https://www.banglapuzzle.com/partners,2412,0,0
+1729984289575,2849,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-32,text,true,,128518,1208,38,38,https://www.banglapuzzle.com/partners,2428,0,0
+1729984289673,2997,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-33,text,true,,181222,1207,38,38,https://www.banglapuzzle.com/contact,2438,0,0
+1729984190093,43042,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-33,,true,,1319974,7770,38,38,null,31385,59536,3283
+1729984289763,2936,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-48,text,true,,128530,1208,37,37,https://www.banglapuzzle.com/partners,2479,0,0
+1729984287392,5533,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-28,text,true,,181207,1207,37,37,https://www.banglapuzzle.com/contact,3127,0,0
+1729984189094,44296,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-28,,true,,1319914,7770,37,37,null,29315,59536,3806
+1729984289966,3116,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-20,text,true,,181174,1207,36,36,https://www.banglapuzzle.com/contact,2772,0,0
+1729984187494,46049,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-20,,true,,1320002,7770,36,36,null,29119,59540,5946
+1729984288700,4905,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-42,text,true,,187456,1219,35,35,https://www.banglapuzzle.com/industry/rmg-sector,2792,0,0
+1729984291516,2493,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-30,text,true,,181168,1207,35,35,https://www.banglapuzzle.com/contact,2122,0,0
+1729984189492,44984,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-30,,true,,1320144,7770,35,35,null,30710,59533,6271
+1729984292021,2312,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-22,text,true,,128521,1208,34,34,https://www.banglapuzzle.com/partners,2125,0,0
+1729984290628,3846,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-1,text,true,,181098,1207,34,34,https://www.banglapuzzle.com/contact,2483,0,0
+1729984183666,51140,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,1319929,7770,34,34,null,24549,59664,727
+1729984290387,4364,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-35,text,true,,187416,1219,33,33,https://www.banglapuzzle.com/industry/rmg-sector,2846,0,0
+1729984292843,2527,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-38,text,true,,128629,1208,33,33,https://www.banglapuzzle.com/partners,1926,0,0
+1729984293078,2551,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-37,text,true,,128487,1208,33,33,https://www.banglapuzzle.com/partners,2069,0,0
+1729984291599,4084,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-34,text,true,,187464,1219,33,33,https://www.banglapuzzle.com/industry/rmg-sector,2161,0,0
+1729984293545,2352,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-39,text,true,,128573,1208,33,33,https://www.banglapuzzle.com/partners,2168,0,0
+1729984292469,3673,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-45,text,true,,187422,1219,33,33,https://www.banglapuzzle.com/industry/rmg-sector,1873,0,0
+1729984292604,3695,https://www.banglapuzzle.com/industry/rmg-sector,200,OK,Thread Group 1-46,text,true,,187411,1219,33,33,https://www.banglapuzzle.com/industry/rmg-sector,1958,0,0
+1729984292970,3557,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-8,text,true,,181139,1207,33,33,https://www.banglapuzzle.com/contact,1975,0,0
+1729984185068,51928,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-8,,true,,1320028,7770,33,33,null,25039,59533,260
+1729984294219,2464,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-19,text,true,,181157,1207,32,32,https://www.banglapuzzle.com/contact,2090,0,0
+1729984187292,49857,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-19,,true,,1320064,7770,32,32,null,27437,59535,4331
+1729984294577,2463,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-50,text,true,,128522,1208,31,31,https://www.banglapuzzle.com/partners,2137,0,0
+1729984293706,3490,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-7,text,true,,181158,1207,31,31,https://www.banglapuzzle.com/contact,2251,0,0
+1729984184869,52789,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-7,,true,,1320002,7770,31,31,null,26432,59539,224
+1729984295547,2165,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-12,text,true,,181213,1207,30,30,https://www.banglapuzzle.com/contact,1825,0,0
+1729984185860,52317,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-12,,true,,1320066,7770,30,30,null,37003,59536,2357
+1729984294657,3137,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-10,text,true,,181074,1207,29,29,https://www.banglapuzzle.com/contact,2149,0,0
+1729984185461,52798,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-10,,true,,1320157,7770,29,29,null,27342,59537,216
+1729984296165,2073,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-9,text,true,,181102,1207,28,28,https://www.banglapuzzle.com/contact,1661,0,0
+1729984185263,53441,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-9,,true,,1319673,7770,28,28,null,28004,59536,533
+1729984295428,2892,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-6,text,true,,181172,1207,27,27,https://www.banglapuzzle.com/contact,1799,0,0
+1729984184668,54119,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-6,,true,,1319997,7770,27,27,null,24827,59535,235
+1729984296469,2006,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-36,text,true,,181146,1207,26,26,https://www.banglapuzzle.com/contact,1501,0,0
+1729984190690,48253,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-36,,true,,1320016,7770,26,26,null,27817,59532,3906
+1729984296934,1983,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-31,text,true,,181041,1207,25,25,https://www.banglapuzzle.com/contact,1573,0,0
+1729984189693,49692,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-31,,true,,1319802,7770,25,25,null,28331,59532,4502
+1729984297194,1973,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-11,text,true,,181183,1207,24,24,https://www.banglapuzzle.com/contact,1485,0,0
+1729984185660,53975,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-11,,true,,1319943,7770,24,24,null,28753,59534,396
+1729984297315,2114,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-40,text,true,,128618,1208,23,23,https://www.banglapuzzle.com/partners,1634,0,0
+1729984297647,2213,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-41,text,true,,128628,1208,23,23,https://www.banglapuzzle.com/partners,1814,0,0
+1729984297499,2982,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-43,text,true,,180999,1207,23,23,https://www.banglapuzzle.com/contact,1722,0,0
+1729984192084,48864,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-43,,true,,1320015,7770,23,23,null,33173,59533,5119
+1729984298018,2513,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-29,text,true,,181191,1207,22,22,https://www.banglapuzzle.com/contact,1873,0,0
+1729984189293,51699,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-29,,true,,1320290,7770,22,22,null,37469,59540,11185
+1729984297835,2996,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-44,text,true,,181125,1207,21,21,https://www.banglapuzzle.com/contact,1897,0,0
+1729984192282,49013,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-44,,true,,1320186,7770,21,21,null,34433,59536,5346
+1729984298138,2920,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-23,text,true,,181056,1207,20,20,https://www.banglapuzzle.com/contact,1890,0,0
+1729984188096,53432,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-23,,true,,1319876,7770,20,20,null,29560,59531,3973
+1729984298927,2527,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-25,text,true,,181133,1207,19,19,https://www.banglapuzzle.com/contact,1634,0,0
+1729984188495,53425,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-25,,true,,1319994,7770,19,19,null,29119,59535,3802
+1729984299768,2018,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-42,text,true,,128556,1208,18,18,https://www.banglapuzzle.com/partners,1430,0,0
+1729984300024,1964,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-47,text,true,,181093,1207,18,18,https://www.banglapuzzle.com/contact,1518,0,0
+1729984192880,49577,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-47,,true,,1320015,7770,18,18,null,36645,59531,9203
+1729984299378,2644,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-27,text,true,,181049,1207,17,17,https://www.banglapuzzle.com/contact,1512,0,0
+1729984188895,53592,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-27,,true,,1319887,7770,17,17,null,30062,59535,3982
+1729984299742,2364,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-24,text,true,,181184,1207,16,16,https://www.banglapuzzle.com/contact,1446,0,0
+1729984188294,54275,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-24,,true,,1320168,7770,16,16,null,28034,59537,3922
+1729984300913,1766,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-35,text,true,,128590,1208,15,15,https://www.banglapuzzle.com/partners,1367,0,0
+1729984300817,1945,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-49,text,true,,181099,1207,15,15,https://www.banglapuzzle.com/contact,1319,0,0
+1729984193278,49950,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-49,,true,,1320161,7770,15,15,null,36187,59534,8798
+1729984301388,1656,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-32,text,true,,181096,1207,14,14,https://www.banglapuzzle.com/contact,1156,0,0
+1729984189894,53619,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-32,,true,,1320028,7770,14,14,null,27968,59531,3526
+1729984301664,1588,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-48,text,true,,181082,1207,13,13,https://www.banglapuzzle.com/contact,1128,0,0
+1729984193080,50640,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-48,,true,,1319911,7770,13,13,null,36226,59532,9814
+1729984301844,1655,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-34,text,true,,128568,1208,12,12,https://www.banglapuzzle.com/partners,1226,0,0
+1729984302303,1460,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-45,text,true,,128638,1208,12,12,https://www.banglapuzzle.com/partners,1118,0,0
+1729984302461,1393,https://www.banglapuzzle.com/partners,200,OK,Thread Group 1-46,text,true,,128474,1208,12,12,https://www.banglapuzzle.com/partners,1070,0,0
+1729984303298,856,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-22,text,true,,181172,1207,12,12,https://www.banglapuzzle.com/contact,587,0,0
+1729984187895,56724,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-22,,true,,1319812,7770,12,12,null,26247,59536,3965
+1729984304335,908,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-38,text,true,,181115,1207,11,11,https://www.banglapuzzle.com/contact,646,0,0
+1729984191090,54617,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-38,,true,,1319933,7770,11,11,null,28908,59536,4088
+1729984304862,1922,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-39,text,true,,181105,1207,10,10,https://www.banglapuzzle.com/contact,697,0,0
+1729984191290,55957,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-39,,true,,1319955,7770,10,10,null,31101,59537,4503
+1729984306006,891,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-50,text,true,,181061,1207,9,9,https://www.banglapuzzle.com/contact,641,0,0
+1729984193477,53884,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-50,,true,,1319647,7770,9,9,null,37180,59536,9548
+1729984304594,4037,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-37,text,true,,181134,1207,8,8,https://www.banglapuzzle.com/contact,650,0,0
+1729984190892,58204,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-37,,true,,1319735,7770,8,8,null,28511,59536,3573
+1729984308393,1160,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-40,text,true,,181098,1207,7,7,https://www.banglapuzzle.com/contact,915,0,0
+1729984191490,58529,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-40,,true,,1320017,7770,7,7,null,35650,59535,8293
+1729984308825,1304,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-41,text,true,,181017,1207,6,6,https://www.banglapuzzle.com/contact,1051,0,0
+1729984191686,58912,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-41,,true,,1319914,7770,6,6,null,35219,59532,7072
+1729984310751,952,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-42,text,true,,181112,1207,5,5,https://www.banglapuzzle.com/contact,711,0,0
+1729984191885,60286,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-42,,true,,1320073,7770,5,5,null,36365,59532,10544
+1729984311643,1027,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-35,text,true,,181043,1207,4,4,https://www.banglapuzzle.com/contact,761,0,0
+1729984190490,62647,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-35,,true,,1319952,7770,4,4,null,34351,59533,10625
+1729984312465,1059,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-34,text,true,,181100,1207,3,3,https://www.banglapuzzle.com/contact,834,0,0
+1729984190293,63699,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-34,,true,,1319914,7770,3,3,null,33209,59531,11000
+1729984312729,1098,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-45,text,true,,181113,1207,2,2,https://www.banglapuzzle.com/contact,813,0,0
+1729984192482,61813,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-45,,true,,1319925,7770,2,2,null,34629,59533,13542
+1729984312818,1165,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-46,text,true,,181105,1207,1,1,https://www.banglapuzzle.com/contact,808,0,0
+1729984192682,61768,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-46,,true,,1319845,7770,1,1,null,35269,59533,13697
